@@ -1,0 +1,1138 @@
+PL=60;
+SLISTING='c:\protan32\dict\aevagueness\vagdlc.lis';
+SMASTER='vagdlc.dlc';
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:     1  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+
+
+OPTIONS IN EFFECT_________________
+
+SDICTS='vagdch.dts';
+SUBDICT='';
+
+
+"DICTS" FILE DEFINITIONS________________________
+
+KIND OF DICTIONARY............................. CATEGORY BASED
+"DICTS" FILE IDENTIFICATION (USER-DEFINED)..... VAGUE   
+"DICTS" FILE CREATION DATE..................... Jan12 18
+"DICTS" FILE CREATION TIME..................... 14:12:30
+USER'S COMMENT.                                                                 
+
+GENERAL COMMENTS________________
+
+Stemming=1                                                                      
+Exclusion List=1                                                                
+Include Level=0                                                                 
+Overlap=1                                                                       
+Category only=0                                                                 
+Exclude word=1                                                                  
+Process numeric=1                                                               
+Valid char=1                                                                    
+Case sensitive=1                                                                
+Exclusion=1                                                                     
+Inclusion=1                                                                     
+[DESCRIPTION]                                                                   
+Show=1                                                                          
+                                                                                
+TEXT=The Vagueness Dictionary of words and short phrases was designed and       
+validated                                                                       
+to detect when a communicator, writer or speaker, is "vague" in thought;        
+when a communicator cannot recall a precise fact or idea that needs to be       
+recalled, then an imprecise expression will be substituted to hurdle the        
+gap. Furthermore, the communicator's self-awareness of having difficulty in     
+recalling and expressing what was intended leads to verbalisms that cue         
+that discomfort; the oft repeated "ya know" is precisely such a cue as the      
+speaker attempts to shift the burden of what needs to be said to the            
+listener to fill it in. Copyright (c) 1968. Jack H.Hiller                       
+                                                                                
+Level=1                                                                         
+Stemming=0                                                                      
+Stemming type=English Lemmatization                                             
+Exclusion=1                                                                     
+Exclusion List=C:\HILLER2.EXC                                                   
+Last Category=1                                                                 
+Process Numeric=0                                                               
+Exclude Category Names=1                                                        
+Characters='                                                                    
+Case sensitive=0                                                                
+Overlap=1                                                                       
+[CATEGORIES]                                                                    
+01. AMBIGUOUS DESIGNATION=Something potentially specifiable is referred but     
+not definitely identified.                                                      
+02. NEGATED INTENSIFIERS=Negations can be evasions.                             
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:     2  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+
+03. APPROXIMATION=Use reflects real or referential vagueness or imprecise       
+knowledge.                                                                      
+04. BLUFF AND RECOVERY=Used when a writer is not communicating effectively      
+and tries to shift responsibility for making sense of content to the            
+reader.                                                                         
+05. ADMISSION OF ERROR=Repeated admissions indicate lack of confidence or       
+lack of competence.                                                             
+06. INDEFINITE AMOUNT=An amount is potentially knowable but is not              
+specified.                                                                      
+07. MULTIPLICITY=Pseudospecification or glossing over of complexity.            
+08. PROBABILITY AND POSSIBILITY=Indicates lack of clarity or lack of            
+definite knowledge.                                                             
+09. RESERVATIONS=Expressions of doubt or reluctance to commit to a definite     
+point of view.                                                                  
+10. ANAPHORA=Excessive and repetitious use of pronouns rather than direct       
+references makes content more difficult to follow.                              
+TOTAL AMBIBUITY=Total score                                                     
+                                                                                
+ADD?:https://www.evernote.com/shard/s8/sh/35cfbfd8-f4a9-40e2-a7fe-03b8190acc61/4
+80af014314138e3c07690e4fccc9e9 :                                                
+amenities; operation;circumstances; issue; eventually;neighborhood; neighbourhoo
+; purposes                                                                      
+
+DICTIONARY STATISTICS_____________________
+
+NUMBER OF WORDS TO INCLUDE...........    365
+NUMBER OF ROOTS TO INCLUDE...........     12
+
+
+NUMBER OF WORDS/ROOTS TO INCLUDE.....    377
+
+
+NUMBER OF WORDS TO EXCLUDE...........      0
+NUMBER OF ROOTS TO EXCLUDE...........      0
+
+NUMBER OF WORDS/ROOTS TO EXCLUDE.....      0
+
+
+TOTAL NUMBER OF WORDS/ROOTS..........    377
+
+
+NUMBER OF CATEGORIES DEFINED.........     11
+
+MAX. LENGTH OF CAT. ASSIGNED LIST....      2
+
+LOWER BOUNDARY OF CAT. ASSIGNED......      1
+UPPER BOUNDARY OF CAT. ASSIGNED......     11
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:     3  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+NUMBER  IDENTIFICATION                  WORDS  ROOTS  TOTAL
+   OF CATEGORY                              FREQUENCIES___________________________________________________________
+
+   1    ambiguous designation              52      0     52
+   2    negated intensifiers               55      0     55
+   3    approximation                      37      0     37
+   4    bluff & recovery                   53      1     54
+   5    admission of error                 20      0     20
+   6    indefinite amount                  36      5     41
+   7    multiplicity                       34      1     35
+   8    probability & possibility          30      2     32
+   9    reservations                       34      3     37
+  10    anaphora                           14      0     14
+  11    total ambiguity...01-10           365     12    377
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:     4  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY   1  ambiguous designation         
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+     76       6 ALL_OF_THEM          W     1  11
+     77       7 ALL_OF_THESE         W     1  11
+     78       8 ALL_OF_THIS          W     1  11
+     79       9 ALL_OF_THOSE         W     1  11
+     84      10 ALL_PEOPLE           W     1  11
+     80      11 ALL_THESE            W     1  11
+     81      12 ALL_THE_TIME         W     1  11
+     82      13 ALL_THIS             W     1  11
+     83      14 ALL_THOSE            W     1  11
+     85      22 AND_OTHER            W     1  11
+     86      23 AND_OTHERS           W     1  11
+     87      24 AND_SO_FORTH         W     1  11
+     88      25 AND_SO_ON            W     1  11
+     89      26 AND_SUCH             W     1  11
+     90      27 AND_THINGS           W     1  11
+     91      28 ANOTHER_PART         W     1  11
+     92      29 ANOTHER_THING        W     1  11
+     93      39 ASPECT               W     1  11
+     94      51 A_CERTAIN            W     1  11
+     95      57 A_PARTICULAR         W     1  11
+     96      58 A_THING              W     1  11
+     97      82 DIFFERENT_THINGS     W     1  11
+     98      92 ETC                  W     1  11
+     99      93 ETCETERA             W     1  11
+    100      97 FACTOR               W     1  11
+    101     100 FEATURE              W     1  11
+    102     112 GENERAL_AREA         W     1  11
+    103     113 GENERAL_IDEA         W     1  11
+    104     174 MANNER               W     1  11
+    105     196 NATURE_OF            W     1  11
+    106     206 NOT_ANY              W     1  11
+    107     207 NOT_ANYTHING         W     1  11
+    108     251 NO_PARTICULAR        W     1  11
+    109     268 OR_OTHER             W     1  11
+    110     269 OR_OTHERS            W     1  11
+    111     274 OTHER_ONE            W     1  11
+    112     275 OTHER_THING          W     1  11
+    113     276 OTHER_THINGS         W     1  11
+    114     302 SAME_THING           W     1  11
+    115     303 SAME_WAY             W     1  11
+    116     315 SOMEBODY             W     1  11
+    117     316 SOMEHOW              W     1  11
+    118     317 SOMETHING            W     1  11
+    119     318 SOMETIME             W     1  11
+    120     321 SOMEWHERE            W     1  11
+    121     328 STUFF                W     1  11
+    122     337 THEY_SAY             W     1  11
+    123     338 THE_LIKE             W     1  11
+    124     339 THE_REST             W     1  11
+    125     349 TYPE_OF_THING        W     1  11
+    126     359 WHATEVER             W     1  11
+    127     361 WHAT_NOT             W     1  11
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:     5  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY   1  ambiguous designation         
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+
+
+
+STATISTICS FOR CATEGORY..       1
+WORDS....................      52
+ROOTS....................       0
+TOTAL....................      52
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:     6  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY   2  negated intensifiers          
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    128      37 AREN_T_NECESSARILY   W     2  11
+    129      38 AREN_T_TOO           W     2  11
+    131      65 CANNOT_NECESSARILY   W     2  11
+    130      67 CAN_T_REALLY         W     2  11
+    132      77 COULDN_T_REALLY      W     2  11
+    133      80 DIDN_T_REALLY        W     2  11
+    134      83 DOESN_T_NECESSARILY  W     2  11
+    135      84 DOESN_T_SEEM         W     2  11
+    136      85 DON_T_NECESSARILY    W     2  11
+    137      86 DON_T_REALLY         W     2  11
+    138      87 DON_T_SEEM           W     2  11
+    139     116 HAVEN_T_SEEN_EXACTLY W     2  11
+    140     134 ISN_T_NECESSARILY    W     2  11
+    141     135 ISN_T_REALLY         W     2  11
+    142     136 ISN_T_TOO            W     2  11
+    143     200 NEVER_REALLY         W     2  11
+    144     203 NOT_ABSOLUTELY       W     2  11
+    145     204 NOT_ALL              W     2  11
+    146     205 NOT_ALWAYS           W     2  11
+    147     209 NOT_DEFINITE         W     2  11
+    148     210 NOT_DEFINITELY       W     2  11
+    149     211 NOT_ENTIRELY         W     2  11
+    150     212 NOT_ESPECIALLY       W     2  11
+    151     213 NOT_EVERY            W     2  11
+    152     214 NOT_EVERYBODY        W     2  11
+    153     215 NOT_EVERYONE         W     2  11
+    154     216 NOT_EXACTLY          W     2  11
+    155     217 NOT_FULLY            W     2  11
+    156     218 NOT_HARDLY           W     2  11
+    157     219 NOT_IMPORTANT        W     2  11
+    158     221 NOT_INVOLVE          W     2  11
+    159     222 NOT_INVOLVED         W     2  11
+    160     223 NOT_JUST             W     2  11
+    161     224 NOT_MANY             W     2  11
+    162     225 NOT_MOST             W     2  11
+    163     226 NOT_NECESSARILY      W     2  11
+    164     227 NOT_OFTEN            W     2  11
+    165     228 NOT_PARTICULARLY     W     2  11
+    166     229 NOT_POSITIVELY       W     2  11
+    167     230 NOT_QUITE            W     2  11
+    168     231 NOT_REALLY           W     2  11
+    169     233 NOT_SEEM             W     2  11
+    170     234 NOT_SO_MANY          W     2  11
+    171     236 NOT_SO_VERY          W     2  11
+    172     237 NOT_SPECIFICALLY     W     2  11
+    173     238 NOT_STRICTLY         W     2  11
+    174     240 NOT_TOO              W     2  11
+    175     242 NOT_UNIMPORTANT      W     2  11
+    176     243 NOT_USUALLY          W     2  11
+    177     244 NOT_VERY             W     2  11
+    178     246 NOT_WITHOUT          W     2  11
+    179     247 NOT_WITHSTANDING     W     2  11
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:     7  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY   2  negated intensifiers          
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    180     298 REALLY_COULDN_T      W     2  11
+    181     355 WASN_T_TOO           W     2  11
+    182     364 WON_T_NECESSARILY    W     2  11
+
+
+
+STATISTICS FOR CATEGORY..       2
+WORDS....................      55
+ROOTS....................       0
+TOTAL....................      55
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:     8  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY   3  approximation                 
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    183       1 ABOUT_AS             W     3  11
+    184       2 ABOUT_THE_SAME       W     3  11
+    185      15 ALMOST               W     3  11
+    186      16 ALMOST_EVERY         W     3  11
+    187      17 ALMOST_EVERYONE      W     3  11
+    188      20 AMOUNTS_TO           W     3  11
+    189      59 A_WHILE              W     3  11
+    190      63 BY_AND_LARGE         W     3  11
+    191      99 FAIRLY               W     3  11
+    192     103 FIGURES_OUT          W     3  11
+    193     106 FORM_OF              W     3  11
+    194     115 HALFWAY              W     3  11
+    195     156 JUST_A               W     3  11
+    196     157 JUST_ABOUT           W     3  11
+    197     159 KIND_OF              W     3  11
+    198     161 LARGELY              W     3  11
+    199     165 LESS_AND_LESS        W     3  11
+    200     166 LESS_THAN_GOOD       W     3  11
+    201     172 MAINLY               W     3  11
+    202     187 MORE_AND_MORE        W     3  11
+    203     197 NEARLY               W     3  11
+    204     198 NEARLY_ALL           W     3  11
+    205     199 NEAR_TO              W     3  11
+    206     208 NOT_AS               W     3  11
+    219     255 OFF_THE_TOP_OF       W     3  11
+    207     261 ONE_OR_TWO           W     3  11
+    208     271 OR_SO                W     3  11
+    209     277 OVERALL              W     3  11
+    210     287 PRACTICALLY          W     3  11
+    211     289 PRETTY_GOOD          W     3  11
+    212     290 PRETTY_MUCH          W     3  11
+    213     291 PRETTY_WELL          W     3  11
+    214     310 SHORTLY              W     3  11
+    215     322 SOONER_OR_LATER      W     3  11
+    216     325 SORT_OF              W     3  11
+    217     348 TYPE_OF              W     3  11
+    218     353 VIRTUALLY            W     3  11
+
+
+
+STATISTICS FOR CATEGORY..       3
+WORDS....................      37
+ROOTS....................       0
+TOTAL....................      37
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:     9  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY   4  bluff & recovery              
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    220       3 ACTUALLY             W     4  11
+    221      18 ALRIGHT              W     4  11
+    222      30 ANYHOW               W     4  11
+    223      31 ANYWAY               W     4  11
+    224      41 AS_A_MATTER_OF_FACT  W     4  11
+    225      42 AS_FAR_AS            W     4  11
+    226      46 AS_WE_KNOW           W     4  11
+    227      47 AT_ANY_RATE          W     4  11
+    228      54 A_LONG_STORY_SHORT   W     4  11
+    251      61 BEYOND_DOUBT         W     4  11
+    229      94 EVERYBODY_KNOWS      W     4  11
+    230      95 EVERYONE_KNOWS       W     4  11
+    231     121 IF_ANYTHING          W     4  11
+    232     122 IF_NOTHING_ELSE      W     4  11
+    233     126 IN_ANY_CASE          W     4  11
+    234     127 IN_ANY_EVENT         W     4  11
+    235     128 IN_A_WAY             W     4  11
+    236     131 IN_FACT              W     4  11
+    237     139 IT_IS_FELT           W     4  11
+    238     140 IT_IS_HOPED          W     4  11
+    239     141 IT_IS_THOUGHT        W     4  11
+    240     148 I_MEAN               W     4  11
+    241     149 I_SAID_BEFORE        W     4  11
+    242     151 I_SPOKE_OF_BEFORE    W     4  11
+    243     152 I_STATED_BEFORE      W     4  11
+    244     160 KNOWN_BY_MOST        W     4  11
+    245     170 LIKE_ALL             W     4  11
+    246     179 MATTER_OF_FACT       W     4  11
+    247     184 MENTIONED_BEFORE     W     4  11
+    248     189 MORE_OF_A            W     4  11
+    249     195 NATURALLY            W     4  11
+    250     249 NO_DOUBT             W     4  11
+    252     253 OBVIOUS.(LY          R     4  11
+    253     258 OF_COURSE            W     4  11
+    254     259 OK                   W     4  11
+    255     260 OKAY                 W     4  11
+    256     267 OR_AT_LEAST          W     4  11
+    257     311 SHOULD_SAY           W     4  11
+    258     326 SO_TO_SAY            W     4  11
+    259     327 SO_TO_SPEAK          W     4  11
+    260     346 TRUTH_OF_THE_MATTER  W     4  11
+    261     357 WELL_KNOW            W     4  11
+    262     358 WE_ALL_KNOW          W     4  11
+    263     362 WITHOUT_A_DOUBT      W     4  11
+    264     363 WITHOUT_DOUBT        W     4  11
+    265     367 WOULD_SAY            W     4  11
+    266     368 WOULD_SEEM           W     4  11
+    267     371 WOULD_TEND           W     4  11
+    268     372 YOU_ALL_KNOW         W     4  11
+    269     373 YOU_ALL_REALIZE      W     4  11
+    270     374 YOU_KNOW             W     4  11
+    271     375 YOU_MIGHT_SAY        W     4  11
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    10  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY   4  bluff & recovery              
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    272     376 YOU_REALIZE          W     4  11
+    273     377 YOU_SEE              W     4  11
+
+
+
+STATISTICS FOR CATEGORY..       4
+WORDS....................      53
+ROOTS....................       1
+TOTAL....................      54
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    11  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY   5  admission of error            
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    274      56 A_MISTAKE            W     5  11
+    275      69 CHANCES_ARE          W     5  11
+    276      96 EXCUSE_ME            W     5  11
+    277     142 I_DON_T_KNOW         W     5  11
+    278     143 I_FORGET             W     5  11
+    279     144 I_FORGOT             W     5  11
+    280     145 I_GUESS              W     5  11
+    281     146 I_MADE_AN_ERROR      W     5  11
+    282     147 I_MADE_A_MISTAKE     W     5  11
+    283     150 I_SLIPPED            W     5  11
+    284     153 I_SUPPOSE            W     5  11
+    285     154 I_THINK              W     5  11
+    286     155 I_WAS_WRONG          W     5  11
+    287     167 LET_S_SEE            W     5  11
+    288     181 MAYBE                W     5  11
+    289     239 NOT_SURE             W     5  11
+    290     278 PARDON_ME            W     5  11
+    291     323 SORRY                W     5  11
+    292     366 WOULD_GUESS          W     5  11
+    293     370 WOULD_SUPPOSE        W     5  11
+
+
+
+STATISTICS FOR CATEGORY..       5
+WORDS....................      20
+ROOTS....................       0
+TOTAL....................      20
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    12  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY   6  indefinite amount             
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    327       5 AGGREGATE.           R     6  11
+    294      21 AMOUNT_OF_THEM       W     6  11
+    295      32 ANY_GREAT_EXTENT     W     6  11
+    296      33 ANY_NUMBER_OF        W     6  11
+    297      44 AS_LITTLE_AS         W     6  11
+    298      45 AS_MUCH_AS           W     6  11
+    299      49 A_BIT                W     6  11
+    300      50 A_BUNCH              W     6  11
+    301      52 A_COUPLE             W     6  11
+    302      53 A_LITTLE             W     6  11
+    303      55 A_LOT                W     6  11
+    305      62 BULK                 W     6  11
+    304      64 CABOODLE.            R     6  11
+    306      73 CONSIDERABLE         W     6  11
+    307      74 CONSIDERABLE_AMOUNT  W     6  11
+    308      88 ENOUGH_OF_THEM       W     6  11
+    309      89 ENOUGH_OF_THESE      W     6  11
+    310      90 ENOUGH_OF_THOSE      W     6  11
+    311     101 FEW                  W     6  11
+    334     104 FLOCK                W     6  11
+    315     114 GIVE_OR_TAKE         W     6  11
+    331     118 HEAP                 W     6  11
+    312     162 LARGE_AMOUNT         W     6  11
+    313     164 LESSER_EXTENT        W     6  11
+    328     173 MAJORIT.(y           R     6  11
+    329     176 MASS                 W     6  11
+    332     185 MESS                 W     6  11
+    314     190 MORE_OR_LESS         W     6  11
+    316     191 MOST.(LY             R     6  11
+    317     193 MUCH                 W     6  11
+    333     194 MUDDLE               W     6  11
+    318     250 NO_LESS_THAN         W     6  11
+    319     282 PLENTY_OF            W     6  11
+    320     294 QUITE_A              W     6  11
+    321     295 QUITE_A_BIT          W     6  11
+    322     296 RATHER_LARGE         W     6  11
+    323     297 RATHER_SMALL         W     6  11
+    324     313 SMALL_AMOUNT         W     6  11
+    325     314 SOME                 W     6  11
+    330     354 VOLUME.              R     6  11
+    326     360 WHAT_LITTLE          W     6  11
+
+
+
+STATISTICS FOR CATEGORY..       6
+WORDS....................      36
+ROOTS....................       5
+TOTAL....................      41
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    13  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY   7  multiplicity                  
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    335       4 AGE                  W     7  11
+    336      19 AMONG_OTHER_THINGS   W     7  11
+    337      36 AREA.(S              R     7  11
+    338      40 ASPECTS              W     7  11
+    339      68 CASES                W     7  11
+    340      70 COMPLEX              W     7  11
+    341      71 COMPLICATED          W     7  11
+    342      72 CONDITIONS           W     7  11
+    343      76 CONSIDERATIONS       W     7  11
+    344      81 DIFFERENT_GROUPS     W     7  11
+    345      98 FACTORS              W     7  11
+    346     102 FIELDS               W     7  11
+    347     109 FOR_YEARS            W     7  11
+    348     124 INTERESTS            W     7  11
+    349     125 INVOLVED             W     7  11
+    350     158 KINDS                W     7  11
+    351     171 LOTS                 W     7  11
+    352     175 MANY                 W     7  11
+    353     177 MATTERS              W     7  11
+    354     235 NOT_SO_MUCH          W     7  11
+    355     252 NUMBERS              W     7  11
+    356     273 OTHERS               W     7  11
+    357     279 PEOPLES              W     7  11
+    358     281 PLACES               W     7  11
+    359     284 POINTS               W     7  11
+    360     299 REASONS              W     7  11
+    361     301 RESPECTS             W     7  11
+    362     308 SEVERAL              W     7  11
+    363     312 SITUATIONS           W     7  11
+    364     324 SORTS                W     7  11
+    365     340 THINGS               W     7  11
+    366     347 TYPES                W     7  11
+    367     351 VARIETIES            W     7  11
+    368     352 VARIOUS              W     7  11
+    369     356 WAYS                 W     7  11
+
+
+
+STATISTICS FOR CATEGORY..       7
+WORDS....................      34
+ROOTS....................       1
+TOTAL....................      35
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    14  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY   8  probability & possibility     
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    370      48 AT_TIMES             W     8  11
+    371      78 COULD_BE             W     8  11
+    372      79 COULD_MEAN           W     8  11
+    373     110 FREQUENTLY           W     8  11
+    374     111 GENERALLY            W     8  11
+    375     123 INDEFINITE           W     8  11
+    376     168 LIKELIHOOD           W     8  11
+    377     169 LIKELY               W     8  11
+    378     180 MAY                  W     8  11
+    379     182 MAY_OR_MAY_NOT       W     8  11
+    380     183 MAY_WELL             W     8  11
+    381     186 MIGHT                W     8  11
+    382     188 MORE_OFTEN_THAN_NOT  W     8  11
+    383     192 MOST_OF_THE_TIME     W     8  11
+    384     220 NOT_INFREQUENTLY     W     8  11
+    385     248 NOW_AND_THEN         W     8  11
+    386     254 OCCASIONALLY         W     8  11
+    387     256 OFTEN                W     8  11
+    388     257 OFTENTIME            W     8  11
+    389     262 ON_OCCASION          W     8  11
+    390     263 ON_THE_AVERAGE       W     8  11
+    391     264 ON_THE_WHOLE         W     8  11
+    392     265 ORDINARILY           W     8  11
+    393     266 OR_ANOTHER           W     8  11
+    394     280 PERHAPS              W     8  11
+    395     285 POSSIBILITY          W     8  11
+    396     286 POSSIBLY             W     8  11
+    397     293 PROBABL.(Y           R     8  11
+    398     319 SOMETIMES            W     8  11
+    399     330 SUPPOS.(ED           R     8  11
+    400     332 TENDENCIES           W     8  11
+    401     350 USUALLY              W     8  11
+
+
+
+STATISTICS FOR CATEGORY..       8
+WORDS....................      30
+ROOTS....................       2
+TOTAL....................      32
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    15  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY   9  reservations                  
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    402      34 APPARENTLY           W     9  11
+    403      35 APPEAR.(S            R     9  11
+    404      43 AS_IT_WERE           W     9  11
+    405      60 BASICALLY            W     9  11
+    406      66 CAN_BE_SAID          W     9  11
+    407      75 CONSIDERABLY         W     9  11
+    408      91 ESSENTIAL.(LY        R     9  11
+    409     107 FOR_ALL_PRACTICAL    W     9  11
+    410     108 FOR_THE_MOST_PART    W     9  11
+    411     129 IN_EFFECT            W     9  11
+    412     130 IN_ESSENCE           W     9  11
+    413     132 IN_GENERAL           W     9  11
+    414     133 IN_SUBSTANCE         W     9  11
+    415     178 MATTER_OF_DEGREE     W     9  11
+    416     201 NORMALLY             W     9  11
+    417     202 NOTHING_MORE_THAN    W     9  11
+    418     232 NOT_SAY              W     9  11
+    419     241 NOT_TO_SAY           W     9  11
+    420     245 NOT_WHAT_YOU_CALL    W     9  11
+    421     270 OR_OTHERWISE         W     9  11
+    422     283 PLUS_OR_MINUS        W     9  11
+    423     288 PRESUM.(ABLY         R     9  11
+    424     292 PRIMARILY            W     9  11
+    425     300 RELATIVELY           W     9  11
+    426     304 SEEM                 W     9  11
+    429     305 SEEMED               W     9  11
+    427     306 SEEMINGLY            W     9  11
+    428     307 SEEMS                W     9  11
+    430     320 SOMEWHAT             W     9  11
+    431     331 TEND                 W     9  11
+    432     333 TENDENCY             W     9  11
+    433     334 TENDING              W     9  11
+    434     343 TO_ALL_INTENTS       W     9  11
+    435     344 TO_AN_EXTENT         W     9  11
+    436     345 TO_A_DEGREE          W     9  11
+    437     365 WOULD_APPEAR         W     9  11
+    438     369 WOULD_SUGGEST        W     9  11
+
+
+
+STATISTICS FOR CATEGORY..       9
+WORDS....................      34
+ROOTS....................       3
+TOTAL....................      37
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    16  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY  10  anaphora                      
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    439     105 FORMER               W    10  11
+    440     117 HE                   W    10  11
+    441     119 HER                  W    10  11
+    442     120 HIM                  W    10  11
+    443     137 IT                   W    10  11
+    444     138 ITS                  W    10  11
+    445     163 LATTER               W    10  11
+    446     272 OTHER                W    10  11
+    447     309 SHE                  W    10  11
+    448     329 SUCH                 W    10  11
+    449     335 THEM                 W    10  11
+    450     336 THEY                 W    10  11
+    451     341 THIS                 W    10  11
+    452     342 THOSE                W    10  11
+
+
+
+STATISTICS FOR CATEGORY..      10
+WORDS....................      14
+ROOTS....................       0
+TOTAL....................      14
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    17  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY  11  total ambiguity...01-10       
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    183       1 ABOUT_AS             W     3  11
+    184       2 ABOUT_THE_SAME       W     3  11
+    220       3 ACTUALLY             W     4  11
+    335       4 AGE                  W     7  11
+    327       5 AGGREGATE.           R     6  11
+     76       6 ALL_OF_THEM          W     1  11
+     77       7 ALL_OF_THESE         W     1  11
+     78       8 ALL_OF_THIS          W     1  11
+     79       9 ALL_OF_THOSE         W     1  11
+     84      10 ALL_PEOPLE           W     1  11
+     80      11 ALL_THESE            W     1  11
+     81      12 ALL_THE_TIME         W     1  11
+     82      13 ALL_THIS             W     1  11
+     83      14 ALL_THOSE            W     1  11
+    185      15 ALMOST               W     3  11
+    186      16 ALMOST_EVERY         W     3  11
+    187      17 ALMOST_EVERYONE      W     3  11
+    221      18 ALRIGHT              W     4  11
+    336      19 AMONG_OTHER_THINGS   W     7  11
+    188      20 AMOUNTS_TO           W     3  11
+    294      21 AMOUNT_OF_THEM       W     6  11
+     85      22 AND_OTHER            W     1  11
+     86      23 AND_OTHERS           W     1  11
+     87      24 AND_SO_FORTH         W     1  11
+     88      25 AND_SO_ON            W     1  11
+     89      26 AND_SUCH             W     1  11
+     90      27 AND_THINGS           W     1  11
+     91      28 ANOTHER_PART         W     1  11
+     92      29 ANOTHER_THING        W     1  11
+    222      30 ANYHOW               W     4  11
+    223      31 ANYWAY               W     4  11
+    295      32 ANY_GREAT_EXTENT     W     6  11
+    296      33 ANY_NUMBER_OF        W     6  11
+    402      34 APPARENTLY           W     9  11
+    403      35 APPEAR.(S            R     9  11
+    337      36 AREA.(S              R     7  11
+    128      37 AREN_T_NECESSARILY   W     2  11
+    129      38 AREN_T_TOO           W     2  11
+     93      39 ASPECT               W     1  11
+    338      40 ASPECTS              W     7  11
+    224      41 AS_A_MATTER_OF_FACT  W     4  11
+    225      42 AS_FAR_AS            W     4  11
+    404      43 AS_IT_WERE           W     9  11
+    297      44 AS_LITTLE_AS         W     6  11
+    298      45 AS_MUCH_AS           W     6  11
+    226      46 AS_WE_KNOW           W     4  11
+    227      47 AT_ANY_RATE          W     4  11
+    370      48 AT_TIMES             W     8  11
+    299      49 A_BIT                W     6  11
+    300      50 A_BUNCH              W     6  11
+     94      51 A_CERTAIN            W     1  11
+    301      52 A_COUPLE             W     6  11
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    18  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY  11  total ambiguity...01-10       
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    302      53 A_LITTLE             W     6  11
+    228      54 A_LONG_STORY_SHORT   W     4  11
+    303      55 A_LOT                W     6  11
+    274      56 A_MISTAKE            W     5  11
+     95      57 A_PARTICULAR         W     1  11
+     96      58 A_THING              W     1  11
+    189      59 A_WHILE              W     3  11
+    405      60 BASICALLY            W     9  11
+    251      61 BEYOND_DOUBT         W     4  11
+    305      62 BULK                 W     6  11
+    190      63 BY_AND_LARGE         W     3  11
+    304      64 CABOODLE.            R     6  11
+    131      65 CANNOT_NECESSARILY   W     2  11
+    406      66 CAN_BE_SAID          W     9  11
+    130      67 CAN_T_REALLY         W     2  11
+    339      68 CASES                W     7  11
+    275      69 CHANCES_ARE          W     5  11
+    340      70 COMPLEX              W     7  11
+    341      71 COMPLICATED          W     7  11
+    342      72 CONDITIONS           W     7  11
+    306      73 CONSIDERABLE         W     6  11
+    307      74 CONSIDERABLE_AMOUNT  W     6  11
+    407      75 CONSIDERABLY         W     9  11
+    343      76 CONSIDERATIONS       W     7  11
+    132      77 COULDN_T_REALLY      W     2  11
+    371      78 COULD_BE             W     8  11
+    372      79 COULD_MEAN           W     8  11
+    133      80 DIDN_T_REALLY        W     2  11
+    344      81 DIFFERENT_GROUPS     W     7  11
+     97      82 DIFFERENT_THINGS     W     1  11
+    134      83 DOESN_T_NECESSARILY  W     2  11
+    135      84 DOESN_T_SEEM         W     2  11
+    136      85 DON_T_NECESSARILY    W     2  11
+    137      86 DON_T_REALLY         W     2  11
+    138      87 DON_T_SEEM           W     2  11
+    308      88 ENOUGH_OF_THEM       W     6  11
+    309      89 ENOUGH_OF_THESE      W     6  11
+    310      90 ENOUGH_OF_THOSE      W     6  11
+    408      91 ESSENTIAL.(LY        R     9  11
+     98      92 ETC                  W     1  11
+     99      93 ETCETERA             W     1  11
+    229      94 EVERYBODY_KNOWS      W     4  11
+    230      95 EVERYONE_KNOWS       W     4  11
+    276      96 EXCUSE_ME            W     5  11
+    100      97 FACTOR               W     1  11
+    345      98 FACTORS              W     7  11
+    191      99 FAIRLY               W     3  11
+    101     100 FEATURE              W     1  11
+    311     101 FEW                  W     6  11
+    346     102 FIELDS               W     7  11
+    192     103 FIGURES_OUT          W     3  11
+    334     104 FLOCK                W     6  11
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    19  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY  11  total ambiguity...01-10       
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    439     105 FORMER               W    10  11
+    193     106 FORM_OF              W     3  11
+    409     107 FOR_ALL_PRACTICAL    W     9  11
+    410     108 FOR_THE_MOST_PART    W     9  11
+    347     109 FOR_YEARS            W     7  11
+    373     110 FREQUENTLY           W     8  11
+    374     111 GENERALLY            W     8  11
+    102     112 GENERAL_AREA         W     1  11
+    103     113 GENERAL_IDEA         W     1  11
+    315     114 GIVE_OR_TAKE         W     6  11
+    194     115 HALFWAY              W     3  11
+    139     116 HAVEN_T_SEEN_EXACTLY W     2  11
+    440     117 HE                   W    10  11
+    331     118 HEAP                 W     6  11
+    441     119 HER                  W    10  11
+    442     120 HIM                  W    10  11
+    231     121 IF_ANYTHING          W     4  11
+    232     122 IF_NOTHING_ELSE      W     4  11
+    375     123 INDEFINITE           W     8  11
+    348     124 INTERESTS            W     7  11
+    349     125 INVOLVED             W     7  11
+    233     126 IN_ANY_CASE          W     4  11
+    234     127 IN_ANY_EVENT         W     4  11
+    235     128 IN_A_WAY             W     4  11
+    411     129 IN_EFFECT            W     9  11
+    412     130 IN_ESSENCE           W     9  11
+    236     131 IN_FACT              W     4  11
+    413     132 IN_GENERAL           W     9  11
+    414     133 IN_SUBSTANCE         W     9  11
+    140     134 ISN_T_NECESSARILY    W     2  11
+    141     135 ISN_T_REALLY         W     2  11
+    142     136 ISN_T_TOO            W     2  11
+    443     137 IT                   W    10  11
+    444     138 ITS                  W    10  11
+    237     139 IT_IS_FELT           W     4  11
+    238     140 IT_IS_HOPED          W     4  11
+    239     141 IT_IS_THOUGHT        W     4  11
+    277     142 I_DON_T_KNOW         W     5  11
+    278     143 I_FORGET             W     5  11
+    279     144 I_FORGOT             W     5  11
+    280     145 I_GUESS              W     5  11
+    281     146 I_MADE_AN_ERROR      W     5  11
+    282     147 I_MADE_A_MISTAKE     W     5  11
+    240     148 I_MEAN               W     4  11
+    241     149 I_SAID_BEFORE        W     4  11
+    283     150 I_SLIPPED            W     5  11
+    242     151 I_SPOKE_OF_BEFORE    W     4  11
+    243     152 I_STATED_BEFORE      W     4  11
+    284     153 I_SUPPOSE            W     5  11
+    285     154 I_THINK              W     5  11
+    286     155 I_WAS_WRONG          W     5  11
+    195     156 JUST_A               W     3  11
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    20  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY  11  total ambiguity...01-10       
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    196     157 JUST_ABOUT           W     3  11
+    350     158 KINDS                W     7  11
+    197     159 KIND_OF              W     3  11
+    244     160 KNOWN_BY_MOST        W     4  11
+    198     161 LARGELY              W     3  11
+    312     162 LARGE_AMOUNT         W     6  11
+    445     163 LATTER               W    10  11
+    313     164 LESSER_EXTENT        W     6  11
+    199     165 LESS_AND_LESS        W     3  11
+    200     166 LESS_THAN_GOOD       W     3  11
+    287     167 LET_S_SEE            W     5  11
+    376     168 LIKELIHOOD           W     8  11
+    377     169 LIKELY               W     8  11
+    245     170 LIKE_ALL             W     4  11
+    351     171 LOTS                 W     7  11
+    201     172 MAINLY               W     3  11
+    328     173 MAJORIT.(y           R     6  11
+    104     174 MANNER               W     1  11
+    352     175 MANY                 W     7  11
+    329     176 MASS                 W     6  11
+    353     177 MATTERS              W     7  11
+    415     178 MATTER_OF_DEGREE     W     9  11
+    246     179 MATTER_OF_FACT       W     4  11
+    378     180 MAY                  W     8  11
+    288     181 MAYBE                W     5  11
+    379     182 MAY_OR_MAY_NOT       W     8  11
+    380     183 MAY_WELL             W     8  11
+    247     184 MENTIONED_BEFORE     W     4  11
+    332     185 MESS                 W     6  11
+    381     186 MIGHT                W     8  11
+    202     187 MORE_AND_MORE        W     3  11
+    382     188 MORE_OFTEN_THAN_NOT  W     8  11
+    248     189 MORE_OF_A            W     4  11
+    314     190 MORE_OR_LESS         W     6  11
+    316     191 MOST.(LY             R     6  11
+    383     192 MOST_OF_THE_TIME     W     8  11
+    317     193 MUCH                 W     6  11
+    333     194 MUDDLE               W     6  11
+    249     195 NATURALLY            W     4  11
+    105     196 NATURE_OF            W     1  11
+    203     197 NEARLY               W     3  11
+    204     198 NEARLY_ALL           W     3  11
+    205     199 NEAR_TO              W     3  11
+    143     200 NEVER_REALLY         W     2  11
+    416     201 NORMALLY             W     9  11
+    417     202 NOTHING_MORE_THAN    W     9  11
+    144     203 NOT_ABSOLUTELY       W     2  11
+    145     204 NOT_ALL              W     2  11
+    146     205 NOT_ALWAYS           W     2  11
+    106     206 NOT_ANY              W     1  11
+    107     207 NOT_ANYTHING         W     1  11
+    206     208 NOT_AS               W     3  11
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    21  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY  11  total ambiguity...01-10       
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    147     209 NOT_DEFINITE         W     2  11
+    148     210 NOT_DEFINITELY       W     2  11
+    149     211 NOT_ENTIRELY         W     2  11
+    150     212 NOT_ESPECIALLY       W     2  11
+    151     213 NOT_EVERY            W     2  11
+    152     214 NOT_EVERYBODY        W     2  11
+    153     215 NOT_EVERYONE         W     2  11
+    154     216 NOT_EXACTLY          W     2  11
+    155     217 NOT_FULLY            W     2  11
+    156     218 NOT_HARDLY           W     2  11
+    157     219 NOT_IMPORTANT        W     2  11
+    384     220 NOT_INFREQUENTLY     W     8  11
+    158     221 NOT_INVOLVE          W     2  11
+    159     222 NOT_INVOLVED         W     2  11
+    160     223 NOT_JUST             W     2  11
+    161     224 NOT_MANY             W     2  11
+    162     225 NOT_MOST             W     2  11
+    163     226 NOT_NECESSARILY      W     2  11
+    164     227 NOT_OFTEN            W     2  11
+    165     228 NOT_PARTICULARLY     W     2  11
+    166     229 NOT_POSITIVELY       W     2  11
+    167     230 NOT_QUITE            W     2  11
+    168     231 NOT_REALLY           W     2  11
+    418     232 NOT_SAY              W     9  11
+    169     233 NOT_SEEM             W     2  11
+    170     234 NOT_SO_MANY          W     2  11
+    354     235 NOT_SO_MUCH          W     7  11
+    171     236 NOT_SO_VERY          W     2  11
+    172     237 NOT_SPECIFICALLY     W     2  11
+    173     238 NOT_STRICTLY         W     2  11
+    289     239 NOT_SURE             W     5  11
+    174     240 NOT_TOO              W     2  11
+    419     241 NOT_TO_SAY           W     9  11
+    175     242 NOT_UNIMPORTANT      W     2  11
+    176     243 NOT_USUALLY          W     2  11
+    177     244 NOT_VERY             W     2  11
+    420     245 NOT_WHAT_YOU_CALL    W     9  11
+    178     246 NOT_WITHOUT          W     2  11
+    179     247 NOT_WITHSTANDING     W     2  11
+    385     248 NOW_AND_THEN         W     8  11
+    250     249 NO_DOUBT             W     4  11
+    318     250 NO_LESS_THAN         W     6  11
+    108     251 NO_PARTICULAR        W     1  11
+    355     252 NUMBERS              W     7  11
+    252     253 OBVIOUS.(LY          R     4  11
+    386     254 OCCASIONALLY         W     8  11
+    219     255 OFF_THE_TOP_OF       W     3  11
+    387     256 OFTEN                W     8  11
+    388     257 OFTENTIME            W     8  11
+    253     258 OF_COURSE            W     4  11
+    254     259 OK                   W     4  11
+    255     260 OKAY                 W     4  11
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    22  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY  11  total ambiguity...01-10       
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    207     261 ONE_OR_TWO           W     3  11
+    389     262 ON_OCCASION          W     8  11
+    390     263 ON_THE_AVERAGE       W     8  11
+    391     264 ON_THE_WHOLE         W     8  11
+    392     265 ORDINARILY           W     8  11
+    393     266 OR_ANOTHER           W     8  11
+    256     267 OR_AT_LEAST          W     4  11
+    109     268 OR_OTHER             W     1  11
+    110     269 OR_OTHERS            W     1  11
+    421     270 OR_OTHERWISE         W     9  11
+    208     271 OR_SO                W     3  11
+    446     272 OTHER                W    10  11
+    356     273 OTHERS               W     7  11
+    111     274 OTHER_ONE            W     1  11
+    112     275 OTHER_THING          W     1  11
+    113     276 OTHER_THINGS         W     1  11
+    209     277 OVERALL              W     3  11
+    290     278 PARDON_ME            W     5  11
+    357     279 PEOPLES              W     7  11
+    394     280 PERHAPS              W     8  11
+    358     281 PLACES               W     7  11
+    319     282 PLENTY_OF            W     6  11
+    422     283 PLUS_OR_MINUS        W     9  11
+    359     284 POINTS               W     7  11
+    395     285 POSSIBILITY          W     8  11
+    396     286 POSSIBLY             W     8  11
+    210     287 PRACTICALLY          W     3  11
+    423     288 PRESUM.(ABLY         R     9  11
+    211     289 PRETTY_GOOD          W     3  11
+    212     290 PRETTY_MUCH          W     3  11
+    213     291 PRETTY_WELL          W     3  11
+    424     292 PRIMARILY            W     9  11
+    397     293 PROBABL.(Y           R     8  11
+    320     294 QUITE_A              W     6  11
+    321     295 QUITE_A_BIT          W     6  11
+    322     296 RATHER_LARGE         W     6  11
+    323     297 RATHER_SMALL         W     6  11
+    180     298 REALLY_COULDN_T      W     2  11
+    360     299 REASONS              W     7  11
+    425     300 RELATIVELY           W     9  11
+    361     301 RESPECTS             W     7  11
+    114     302 SAME_THING           W     1  11
+    115     303 SAME_WAY             W     1  11
+    426     304 SEEM                 W     9  11
+    429     305 SEEMED               W     9  11
+    427     306 SEEMINGLY            W     9  11
+    428     307 SEEMS                W     9  11
+    362     308 SEVERAL              W     7  11
+    447     309 SHE                  W    10  11
+    214     310 SHORTLY              W     3  11
+    257     311 SHOULD_SAY           W     4  11
+    363     312 SITUATIONS           W     7  11
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    23  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY  11  total ambiguity...01-10       
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    324     313 SMALL_AMOUNT         W     6  11
+    325     314 SOME                 W     6  11
+    116     315 SOMEBODY             W     1  11
+    117     316 SOMEHOW              W     1  11
+    118     317 SOMETHING            W     1  11
+    119     318 SOMETIME             W     1  11
+    398     319 SOMETIMES            W     8  11
+    430     320 SOMEWHAT             W     9  11
+    120     321 SOMEWHERE            W     1  11
+    215     322 SOONER_OR_LATER      W     3  11
+    291     323 SORRY                W     5  11
+    364     324 SORTS                W     7  11
+    216     325 SORT_OF              W     3  11
+    258     326 SO_TO_SAY            W     4  11
+    259     327 SO_TO_SPEAK          W     4  11
+    121     328 STUFF                W     1  11
+    448     329 SUCH                 W    10  11
+    399     330 SUPPOS.(ED           R     8  11
+    431     331 TEND                 W     9  11
+    400     332 TENDENCIES           W     8  11
+    432     333 TENDENCY             W     9  11
+    433     334 TENDING              W     9  11
+    449     335 THEM                 W    10  11
+    450     336 THEY                 W    10  11
+    122     337 THEY_SAY             W     1  11
+    123     338 THE_LIKE             W     1  11
+    124     339 THE_REST             W     1  11
+    365     340 THINGS               W     7  11
+    451     341 THIS                 W    10  11
+    452     342 THOSE                W    10  11
+    434     343 TO_ALL_INTENTS       W     9  11
+    435     344 TO_AN_EXTENT         W     9  11
+    436     345 TO_A_DEGREE          W     9  11
+    260     346 TRUTH_OF_THE_MATTER  W     4  11
+    366     347 TYPES                W     7  11
+    217     348 TYPE_OF              W     3  11
+    125     349 TYPE_OF_THING        W     1  11
+    401     350 USUALLY              W     8  11
+    367     351 VARIETIES            W     7  11
+    368     352 VARIOUS              W     7  11
+    218     353 VIRTUALLY            W     3  11
+    330     354 VOLUME.              R     6  11
+    181     355 WASN_T_TOO           W     2  11
+    369     356 WAYS                 W     7  11
+    261     357 WELL_KNOW            W     4  11
+    262     358 WE_ALL_KNOW          W     4  11
+    126     359 WHATEVER             W     1  11
+    326     360 WHAT_LITTLE          W     6  11
+    127     361 WHAT_NOT             W     1  11
+    263     362 WITHOUT_A_DOUBT      W     4  11
+    264     363 WITHOUT_DOUBT        W     4  11
+    182     364 WON_T_NECESSARILY    W     2  11
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    24  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+** VAGUE                                                                      **
+
+CATEGORY  11  total ambiguity...01-10       
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    437     365 WOULD_APPEAR         W     9  11
+    292     366 WOULD_GUESS          W     5  11
+    265     367 WOULD_SAY            W     4  11
+    266     368 WOULD_SEEM           W     4  11
+    438     369 WOULD_SUGGEST        W     9  11
+    293     370 WOULD_SUPPOSE        W     5  11
+    267     371 WOULD_TEND           W     4  11
+    268     372 YOU_ALL_KNOW         W     4  11
+    269     373 YOU_ALL_REALIZE      W     4  11
+    270     374 YOU_KNOW             W     4  11
+    271     375 YOU_MIGHT_SAY        W     4  11
+    272     376 YOU_REALIZE          W     4  11
+    273     377 YOU_SEE              W     4  11
+
+
+
+STATISTICS FOR CATEGORY..      11
+WORDS....................     365
+ROOTS....................      12
+TOTAL....................     377
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    25  **
+**       PROGRAM: CDLISTC     DATE: Mar20 18    TIME: 08:49:04                **
+
+
+*CYEX001I  processing terminated
+  -  normal end of job

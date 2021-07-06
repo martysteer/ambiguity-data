@@ -1,0 +1,218 @@
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"certain"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"certainly"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"consistent"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"consistently"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"constant"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"constantly"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"distinct"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"distinctly"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"exceptional"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"exceptionally"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"perfect"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"perfectly"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"plain"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"plainly"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"sizeable"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"sizeably"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"successful"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"successfully"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"unclear"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"unclearly"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"unique"}]}
+{"label":"ADJECTIVAL/ADVERBIAL BOOSTERS","pattern":[{"lower":"uniquely"}]}
+{"label":"MODAL BOOSTERS","pattern":[{"lower":"has to"}]}
+{"label":"MODAL BOOSTERS","pattern":[{"lower":"have to"}]}
+{"label":"MODAL BOOSTERS","pattern":[{"lower":"need to"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"absolute"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"absolutely"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"actually"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"always"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"apparent"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"apparently"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"categorical"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"categorically"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"clear"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"clearly"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"compelling"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"completely"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"comprehensive"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"comprehensively"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"conclude that"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"conclusive"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"conclusively"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"confirm"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"confirmed"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"considerable"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"considerably"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"conspicuous"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"conspicuously"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"corroborate"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"credible"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"crediblly"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"crucial"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"crucially"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"decisive"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"decisively"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"definite"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"definitely"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"definitive"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"definitively"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"demonstrate"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"deserve"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"deservedly"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"distinctively"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"doubtless"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"doubtlessly"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"entirely"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"especially"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"essential"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"essentially"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"establish"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"evident"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"evidently"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"exhaustive"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"exhaustively"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"extensive"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"extensively"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"extraordinary"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"extremely"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"find that"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"firm"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"firmly"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"forceful"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"forcefully"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"found that"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"fully"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"fundamental"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"fundamentally"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"genuine"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"genuinely"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"great"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"highlight"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"highly"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"i believe"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"impossible"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"impossibly"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"impressive"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"impressively"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"in fact"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"incontrovertible"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"incontrovertibly"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"indeed"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"indispensable"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"indispensably"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"inevitable"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"inevitably"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"manifest"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"manifestly"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"marked"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"markedly"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"meaningful"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"meaningfully"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"must"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"necessarily"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"never"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"no doubt"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"notable"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"notably"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"noteworthy"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"noticeable"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"noticeably"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"obvious"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"obviously"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"of course"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"outstanding"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"particularly"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"persuasive"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"persuasively"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"powerful"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"precisely"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"profound"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"profoundly"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"prominent"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"prominently"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"proof"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"prove"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"proved"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"quite"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"radical"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"radically"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"really"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"reliable"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"reliably"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"remarkable"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"remarkably"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"rigorous"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"rigorously"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"safe"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"safely"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"secure"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"securely"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"self-evident"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"show"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"sizable"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"sizably"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"striking"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"strikingly"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"superior"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"sure"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"surely"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"the fact that"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"thorough"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"thoroughly"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"totally"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"truly"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"unambiguous"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"unambiguously"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"unarguably"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"unavoidable"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"unavoidably"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"undeniable"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"undeniably"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"undoubtedly"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"unequivocal"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"unequivocally"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"unlimited"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"unmistakable"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"unmistakably"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"unprecedented"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"unquestionable"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"unquestionably"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"upheld"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"uphold"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"vast"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"vastly"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"vital"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"vitally"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"we believe"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"we know"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"well-know"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"well-known"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"will not"}]}
+{"label":"PEACOCK LIST","pattern":[{"lower":"will"}]}
+{"label":"VARIA","pattern":[{"lower":"awfully"}]}
+{"label":"VARIA","pattern":[{"lower":"bloody"}]}
+{"label":"VARIA","pattern":[{"lower":"emphatically"}]}
+{"label":"VARIA","pattern":[{"lower":"horribly"}]}
+{"label":"VARIA","pattern":[{"lower":"most"}]}
+{"label":"VARIA","pattern":[{"lower":"naturally"}]}
+{"label":"VARIA","pattern":[{"lower":"positively"}]}
+{"label":"VARIA","pattern":[{"lower":"simply"}]}
+{"label":"VARIA","pattern":[{"lower":"surpassingly"}]}
+{"label":"VARIA","pattern":[{"lower":"terribly"}]}
+{"label":"VARIA","pattern":[{"lower":"unutterably"}]}
+{"label":"VARIA","pattern":[{"lower":"very"}]}
+{"label":"VARIA","pattern":[{"lower":"wonderfully"}]}
+{"label":"VERBAL BOOSTERS","pattern":[{"lower":"ascertain"}]}
+{"label":"VERBAL BOOSTERS","pattern":[{"lower":"assure"}]}
+{"label":"VERBAL BOOSTERS","pattern":[{"lower":"assuredly"}]}
+{"label":"VERBAL BOOSTERS","pattern":[{"lower":"conclude"}]}
+{"label":"VERBAL BOOSTERS","pattern":[{"lower":"convince"}]}
+{"label":"VERBAL BOOSTERS","pattern":[{"lower":"convincingly"}]}
+{"label":"VERBAL BOOSTERS","pattern":[{"lower":"determine"}]}
+{"label":"VERBAL BOOSTERS","pattern":[{"lower":"enhance"}]}
+{"label":"VERBAL BOOSTERS","pattern":[{"lower":"enhanced"}]}
+{"label":"VERBAL BOOSTERS","pattern":[{"lower":"find"}]}
+{"label":"VERBAL BOOSTERS","pattern":[{"lower":"guarantee"}]}
+{"label":"VERBAL BOOSTERS","pattern":[{"lower":"justify"}]}
+{"label":"VERBAL BOOSTERS","pattern":[{"lower":"substantiate"}]}

@@ -1,0 +1,386 @@
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"a mistake"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"chances are"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"excuse me"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"i don't know"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"i forget"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"i forgot"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"i guess"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"i made a mistake"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"i made an error"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"i slipped"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"i suppose"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"i think"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"i was wrong"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"let's see"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"maybe"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"not sure"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"pardon me"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"sorry"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"would guess"}]}
+{"label":"ADMISSION OF ERROR","pattern":[{"lower":"would suppose"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"a certain"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"a particular"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"a thing"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"all of them"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"all of these"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"all of this"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"all of those"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"all people"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"all the time"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"all these"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"all this"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"all those"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"and other"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"and others"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"and so forth"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"and so on"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"and such"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"and things"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"another part"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"another thing"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"aspect"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"different things"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"etc"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"etcetera"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"factor"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"feature"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"general area"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"general idea"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"manner"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"nature of"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"no particular"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"not any"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"not anything"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"or other"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"or others"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"other one"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"other thing"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"other things"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"same thing"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"same way"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"somebody"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"somehow"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"something"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"sometime"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"somewhere"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"stuff"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"the like"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"the rest"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"they say"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"type of thing"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"what not"}]}
+{"label":"AMBIGUOUS DESIGNATION","pattern":[{"lower":"whatever"}]}
+{"label":"ANAPHORA","pattern":[{"lower":"former"}]}
+{"label":"ANAPHORA","pattern":[{"lower":"he"}]}
+{"label":"ANAPHORA","pattern":[{"lower":"her"}]}
+{"label":"ANAPHORA","pattern":[{"lower":"him"}]}
+{"label":"ANAPHORA","pattern":[{"lower":"it"}]}
+{"label":"ANAPHORA","pattern":[{"lower":"its"}]}
+{"label":"ANAPHORA","pattern":[{"lower":"latter"}]}
+{"label":"ANAPHORA","pattern":[{"lower":"other"}]}
+{"label":"ANAPHORA","pattern":[{"lower":"she"}]}
+{"label":"ANAPHORA","pattern":[{"lower":"such"}]}
+{"label":"ANAPHORA","pattern":[{"lower":"them"}]}
+{"label":"ANAPHORA","pattern":[{"lower":"they"}]}
+{"label":"ANAPHORA","pattern":[{"lower":"this"}]}
+{"label":"ANAPHORA","pattern":[{"lower":"those"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"a while"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"about as"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"about the same"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"almost"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"almost every"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"almost everyone"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"amounts to"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"by and large"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"fairly"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"figures out"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"form of"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"halfway"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"just a"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"just about"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"kind of"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"largely"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"less and less"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"less than good"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"mainly"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"more and more"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"near to"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"nearly"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"nearly all"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"not as"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"off the top of"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"one or two"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"or so"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"overall"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"practically"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"pretty good"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"pretty much"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"pretty well"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"shortly"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"sooner or later"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"sort of"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"type of"}]}
+{"label":"APPROXIMATION","pattern":[{"lower":"virtually"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"a long story short"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"actually"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"alright"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"anyhow"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"anyway"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"as a matter of fact"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"as far as"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"as we know"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"at any rate"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"beyond doubt"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"everybody knows"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"everyone knows"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"i mean"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"i said before"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"i spoke of before"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"i stated before"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"if anything"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"if nothing else"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"in a way"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"in any case"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"in any event"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"in fact"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"it is felt"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"it is hoped"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"it is thought"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"known by most"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"like all"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"matter of fact"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"mentioned before"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"more of a"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"naturally"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"no doubt"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"obvious"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"obviously"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"of course"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"ok"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"okay"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"or at least"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"should say"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"so to say"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"so to speak"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"truth of the matter"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"we all know"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"well know"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"without a doubt"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"without doubt"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"would say"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"would seem"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"would tend"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"you all know"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"you all realize"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"you know"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"you might say"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"you realize"}]}
+{"label":"BLUFF & RECOVERY","pattern":[{"lower":"you see"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"a bit"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"a bunch"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"a couple"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"a little"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"a lot"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"aggregate"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"aggregated"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"amount of them"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"any great extent"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"any number of"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"as little as"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"as much as"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"bulk"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"caboodle"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"considerable"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"considerable amount"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"enough of them"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"enough of these"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"enough of those"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"few"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"flock"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"give or take"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"heap"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"large amount"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"lesser extent"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"majority"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"mass"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"mess"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"more or less"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"most"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"mostly"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"much"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"muddle"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"no less than"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"plenty of"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"quite a"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"quite a bit"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"rather large"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"rather small"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"small amount"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"some"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"volume"}]}
+{"label":"INDEFINITE AMOUNT","pattern":[{"lower":"what little"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"age"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"among other things"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"area"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"areas"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"aspects"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"cases"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"complex"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"complicated"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"conditions"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"considerations"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"different groups"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"factors"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"fields"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"for years"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"interests"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"involved"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"kinds"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"lots"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"many"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"matters"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"not so much"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"numbers"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"others"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"peoples"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"places"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"points"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"reasons"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"respects"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"several"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"situations"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"sorts"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"things"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"types"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"varieties"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"various"}]}
+{"label":"MULTIPLICITY","pattern":[{"lower":"ways"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"aren't necessarily"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"aren't too"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"can't really"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"cannot necessarily"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"couldn't really"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"didn't really"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"doesn't necessarily"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"doesn't seem"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"don't necessarily"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"don't really"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"don't seem"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"haven't seen exactly"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"isn't necessarily"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"isn't really"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"isn't too"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"never really"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not absolutely"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not all"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not always"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not definite"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not definitely"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not entirely"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not especially"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not every"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not everybody"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not everyone"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not exactly"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not fully"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not hardly"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not important"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not involve"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not involved"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not just"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not many"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not most"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not necessarily"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not often"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not particularly"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not positively"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not quite"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not really"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not seem"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not so many"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not so very"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not specifically"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not strictly"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not too"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not unimportant"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not usually"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not very"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not without"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"not withstanding"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"really couldn't"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"wasn't too"}]}
+{"label":"NEGATED INTENSIFIERS","pattern":[{"lower":"won't necessarily"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"at times"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"could be"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"could mean"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"frequently"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"generally"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"indefinite"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"likelihood"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"likely"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"may"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"may or may not"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"may well"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"might"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"more often than not"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"most of the time"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"not infrequently"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"now and then"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"occasionally"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"often"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"oftentime"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"on occasion"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"on the average"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"on the whole"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"or another"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"ordinarily"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"perhaps"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"possibility"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"possibly"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"probable"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"probably"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"sometimes"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"suppose"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"supposed"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"tendencies"}]}
+{"label":"PROBABILITY & POSSIBILITY","pattern":[{"lower":"usually"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"apparently"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"appear"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"appears"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"as it were"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"basically"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"can be said"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"considerably"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"essential"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"essentially"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"for all practical"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"for the most part"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"in effect"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"in essence"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"in general"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"in substance"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"matter of degree"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"normally"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"not say"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"not to say"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"not what you call"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"nothing more than"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"or otherwise"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"plus or minus"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"presumably"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"presume"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"primarily"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"relatively"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"seem"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"seemed"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"seemingly"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"seems"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"somewhat"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"tend"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"tendency"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"tending"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"to a degree"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"to all intents"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"to an extent"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"would appear"}]}
+{"label":"RESERVATIONS","pattern":[{"lower":"would suggest"}]}

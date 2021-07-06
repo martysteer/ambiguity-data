@@ -1,0 +1,2723 @@
+PL=60;
+SLISTING='c:\protan32\dict\polysem\polydlc.lis';
+SMASTER='polydlc.dlc';
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:     1  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+
+
+OPTIONS IN EFFECT_________________
+
+SDICTS='polydch.dts';
+SUBDICT='';
+
+
+"DICTS" FILE DEFINITIONS________________________
+
+KIND OF DICTIONARY............................. CATEGORY BASED
+"DICTS" FILE IDENTIFICATION (USER-DEFINED)..... POLYSEM 
+"DICTS" FILE CREATION DATE..................... Jul03 17
+"DICTS" FILE CREATION TIME..................... 14:59:15
+USER'S COMMENT.   (Prof. Robert Hogenraad)                                      
+
+GENERAL COMMENTS________________
+
+                                                                                
+Looking for markers of ambiguity, we selected from Empson's (1930) "Seven       
+types of ambiguity" those types we could digitize into computer-readable        
+format. Polysemy and contronyms were among those. We then looked                
+at the following web sites and extracted the items marked as                    
+relevant to those two types of ambiguity:                                       
+                                                                                
+ (1) http://www.dailywritingtips.com/75-contronyms-words-with-contradictory-mean
+ngs/                                                                            
+(2) https://en.wiktionary.org/wiki/Appendix:Glossary_of_auto-antonyms           
+(3) http://www.huffingtonpost.com/marv-rubinstein/14-wacky-words-with-two-o_b_62
+3568.html                                                                       
+(4) http://mentalfloss.com/article/49834/14-words-are-their-own-opposites       
+                                                                                
+Robert Hogenraad, Emeritus Professor                                            
+                                                                                
+                                                                                
+CATEGORIES                                                                      
+01. CONTRONYMS=Two meanings into one word                                       
+02. POLYSEMY=Multiple meanings.                                                 
+02. TOTAL                                                                       
+                                                                                
+
+DICTIONARY STATISTICS_____________________
+
+NUMBER OF WORDS TO INCLUDE...........   1006
+NUMBER OF ROOTS TO INCLUDE...........    112
+
+
+NUMBER OF WORDS/ROOTS TO INCLUDE.....   1118
+
+
+NUMBER OF WORDS TO EXCLUDE...........      0
+NUMBER OF ROOTS TO EXCLUDE...........      1
+
+NUMBER OF WORDS/ROOTS TO EXCLUDE.....      1
+
+
+TOTAL NUMBER OF WORDS/ROOTS..........   1119
+
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:     2  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+
+NUMBER OF CATEGORIES DEFINED.........      3
+
+MAX. LENGTH OF CAT. ASSIGNED LIST....      2
+
+LOWER BOUNDARY OF CAT. ASSIGNED......      1
+UPPER BOUNDARY OF CAT. ASSIGNED......      3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:     3  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+NUMBER  IDENTIFICATION                  WORDS  ROOTS  TOTAL
+   OF CATEGORY                              FREQUENCIES___________________________________________________________
+
+   1    contronyms                        211     94    305
+   2    polysemous                        795     18    813
+   3    Total 01 + 02(contronyms + pol   1006    112   1118
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:     4  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   1  contronyms                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    182       1 ABOARD               W     1   3
+    170       2 ABYSMAL.             R     1   3
+    106      11 ADUMBRAT.(e          R     1   3
+    183      14 AGAINST              W     1   3
+    171      17 ALIGHT               W     1   3
+    285      18 ALLOSEXUAL           W     1   3
+    107      19 ANABASIS             W     1   3
+    184      22 ANON                 W     1   3
+    185      24 ANXIOUS.             R     1   3
+     29      25 APOLOGIES.(incomp    R     1   3
+     28      26 APOLOGY (incompatib  W     1   3
+    186      27 APPARENT.            R     1   3
+    172      29 APROPOS              W     1   3
+    187      30 ARGUE                W     1   3
+    264      33 AROUND (complement   W     1   3
+    188      35 ASSUME.              R     1   3
+     30      38 AUGHT                W     1   3
+    189      40 AVOCATION            W     1   3
+    108      42 AWFUL.               R     1   3
+    284      43 A_ROLLING_S.(        R     1   3
+    109      45 BACK_UP.             R     1   3
+    286      46 BAD                  W     1   3
+    110      65 BEFORE               W     1   3
+    259      68 BELIE                W     1   3
+    332      72 BERM                 W     1   3
+    190      74 BIANNUAL.            R     1   3
+    287      75 BIBLE_BASHER         W     1   3
+     31      77 BILL                 W     1   3
+    191      78 BIMONTHLY            W     1   3
+    255      81 BITCH                W     1   3
+    192      84 BIWEEKLY             W     1   3
+    327      87 BLEACH.              R     1   3
+    265      92 BLUNT                W     1   3
+     32      96 BOLT                 W     1   3
+    288      97 BOMB                 W     1   3
+    111      99 BONED                W     1   3
+    328     102 BOSOM                W     1   3
+     33     104 BOUND                W     1   3
+     34     118 BUCKLE.              R     1   3
+    193     126 BY                   W     1   3
+    194     147 CERTAIN              W     1   3
+    195     153 CHARTER              W     1   3
+    289     160 CHOP_LOGIC           W     1   3
+    112     161 CHUFFED              W     1   3
+    196     162 CIPHER               W     1   3
+    197     164 CITATION.            R     1   3
+     35     169 CLEAVE.              R     1   3
+     36     172 CLIP                 W     1   3
+    276     177 CO-OPETITION         W     1   3
+    198     180 COGNOMEN.            R     1   3
+    290     190 COMMENCEMENT.        R     1   3
+    178     193 COMPRISE             W     1   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:     5  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   1  contronyms                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    113     197 CONSEQUENTIAL.       R     1   3
+     37     198 CONSULT              W     1   3
+    114     199 CONSUM.(e            R     1   3
+    115     201 CONTEMPORAR.(y       R     1   3
+    200     202 CONTINGENT.          R     1   3
+     38     203 CONTINUE             W     1   3
+    116     207 COOL                 W     1   3
+    275     208 COOPETITION          W     1   3
+    324     209 COPEMATE.            R     1   3
+    325     210 COPESMATE.           R     1   3
+    199     212 CORK                 W     1   3
+    333     217 COULDN_T_CARE_LESS   W     1   3
+    201     220 COUNTERFEIT.         R     1   3
+    117     230 CRITICAL.            R     1   3
+    202     231 CROP                 W     1   3
+    203     236 CULL                 W     1   3
+     39     239 CUSTOM               W     1   3
+    272     240 CUT                  W     1   3
+    291     242 CUT_OUT              W     1   3
+    204     250 DECEPTIVELY          W     1   3
+    281     258 DEPTHLESS.(reverse   R     1   3
+     40     265 DIKE.                R     1   3
+     41     270 DISCURSIVE           W     1   3
+    118     271 DISPOSED             W     1   3
+     42     277 DOLLOP               W     1   3
+    248     279 DOUBTFUL.            R     1   3
+    205     281 DOWN                 W     1   3
+    119     282 DOWNHILL             W     1   3
+    261     285 DRAW                 W     1   3
+    206     286 DRESS                W     1   3
+    292     291 DRY                  W     1   3
+     43     296 DUST                 W     1   3
+    207     297 DYKE.                R     1   3
+    293     298 EASTERLY             W     1   3
+    208     300 EFFECTIVELY          W     1   3
+    120     301 EGREGIOUS            W     1   3
+    121     302 EITHER               W     1   3
+    329     303 EMANCIPAT.(e         R     1   3
+    122     305 ENDURING             W     1   3
+     44     306 ENJOIN.              R     1   3
+    123     309 EVENTUAL.            R     1   3
+    124     311 EXECUTE              W     1   3
+    326     318 FACTOID.             R     1   3
+     45     324 FAST                 W     1   3
+    125     325 FEARFUL.             R     1   3
+    126     326 FEARSOME.            R     1   3
+    256     332 FIGHT_WITH           W     1   3
+    209     337 FILTER.              R     1   3
+     46     339 FINE                 W     1   3
+    210     340 FINISH               W     1   3
+     47     341 FINISHED             W     1   3
+    211     343 FIREMAN              W     1   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:     6  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   1  contronyms                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+     48     346 FIRST_DEGREE         W     1   3
+     49     348 FIX                  W     1   3
+    127     350 FLANK                W     1   3
+    212     355 FLESH                W     1   3
+     50     361 FLOG                 W     1   3
+    128     371 FOR                  W     1   3
+    294     377 FRAISE               W     1   3
+    320     385 FULSOME              W     1   3
+    295     387 GAFIATE              W     1   3
+     51     391 GARNISH.             R     1   3
+    129     397 GENERALLY            W     1   3
+     52     403 GIVE_OUT             W     1   3
+    296     409 GNARLY               W     1   3
+     53     410 GO                   W     1   3
+    273     412 GOODS                W     1   3
+     54     413 GRADE.               R     1   3
+    321     429 HACK                 W     1   3
+     55     432 HANDICAP.            R     1   3
+    130     436 HARDLY               W     1   3
+     56     444 HELP.                R     1   3
+    131     446 HEW                  W     1   3
+    297     451 HOI_POLLOI           W     1   3
+     57     453 HOLD_UP              W     1   3
+    213     455 HOMELY               W     1   3
+    298     458 HORK                 W     1   3
+    214     466 HYSTERICAL.          R     1   3
+    132     469 IMPASSIONATE.        R     1   3
+    173     470 IMPREGNABL.(e        R     1   3
+    133     473 INCORPORATE.         R     1   3
+    300     474 INEXISTENCE          W     1   3
+    174     475 INFLAMMABLE          W     1   3
+    323     476 INJOINT.             R     1   3
+    215     477 INOCULAT.(e          R     1   3
+    330     479 INTERESTING.(ly      R     1   3
+    301     480 INTERMARRY           W     1   3
+    299     482 IN_CHARGE            W     1   3
+    216     492 JOINT                W     1   3
+    217     507 LAST                 W     1   3
+    302     510 LEAD_FOOTED          W     1   3
+     58     513 LEASE                W     1   3
+     59     515 LEFT                 W     1   3
+     60     516 LET                  W     1   3
+    218     519 LICENSE              W     1   3
+     61     521 LIEGE.               R     1   3
+     62     522 LIEGEM.(am           R     1   3
+     63     531 LITERALLY            W     1   3
+    134     534 LIVID.               R     1   3
+    303     547 LUCK_OUT             W     1   3
+    135     548 LURID.               R     1   3
+    219     549 MAD                  W     1   3
+    304     553 MAN_AMONG_MEN        W     1   3
+    220     556 MARK                 W     1   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:     7  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   1  contronyms                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    249     557 MARRY                W     1   3
+     64     566 MEAN                 W     1   3
+    136     568 MEDIOCRE.            R     1   3
+     65     579 MODEL.               R     1   3
+    250     582 MOMENTARILY          W     1   3
+    137     583 MOOT                 W     1   3
+    221     584 MORTAR.              R     1   3
+    138     585 MOSEY                W     1   3
+    305     598 NERVELESS            W     1   3
+    222     599 NERVY                W     1   3
+    175     603 NONPLUSSED           W     1   3
+    307     604 NORTHERLY            W     1   3
+    251     606 NOTE                 W     1   3
+    306     609 NO_FEAR              W     1   3
+     66     615 OFF                  W     1   3
+    308     620 OPEN_SECRET          W     1   3
+    283     622 OPPOSE               W     1   3
+    139     627 ORIGINAL.            R     1   3
+     67     628 OUT                  W     1   3
+    309     629 OUTBUY.              R     1   3
+    140     631 OUTSTANDING.         R     1   3
+     68     632 OUT_OF               W     1   3
+     69     633 OVERLOOK.            R     1   3
+     70     634 OVERSIGHT.           R     1   3
+    141     641 PANTS                W     1   3
+    252     642 PAPER                W     1   3
+    253     645 PARTITION.           R     1   3
+    269     653 PEEL                 W     1   3
+     71     654 PEER                 W     1   3
+    266     657 PERIODIC.(incompat   R     1   3
+    142     658 PERUSE               W     1   3
+    270     668 PIT                  W     1   3
+    143     669 PITCH                W     1   3
+    144     671 PITTED               W     1   3
+    223     684 POLICY               W     1   3
+    224     694 PRACTICED            W     1   3
+    267     695 PRESCRIB.(incompat   R     1   3
+     72     697 PRESENTLY            W     1   3
+    145     699 PRICELESS.           R     1   3
+    225     708 PROTEST              W     1   3
+    254     709 PROVE                W     1   3
+    146     710 PUBLIC.              R     1   3
+    331     711 PUBLIC_SCHOOL        W     1   3
+    179     719 PUT                  W     1   3
+     73     720 PUT_OUT              W     1   3
+     74     721 PUZZL.(e             R     1   3
+    147     723 QUALIFIED            W     1   3
+     75     724 QUANTUM.             R     1   3
+    322     725 QUANTUM_LEAP         W     1   3
+     76     729 QUIDDIT.(y           R     1   3
+     77     731 QUITE (antonymy      W     1   3
+     78     746 RAVEL                W     1   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:     8  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   1  contronyms                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    226     755 RECOVER              W     1   3
+    227     757 REEL                 W     1   3
+    148     760 REFLEXIVE.           R     1   3
+     79     761 REFRAIN.             R     1   3
+    228     766 RELEAS.(e            R     1   3
+     80     771 RENT.(converse       R     1   3
+    149     772 REPLACE              W     1   3
+    229     775 REPRESS              W     1   3
+    230     776 REPROVE              W     1   3
+    282     777 RESENT.              R     1   3
+    150     778 RESERVATION.         R     1   3
+    274     781 RESIDE               W     1   3
+    151     782 RESIGN               W     1   3
+    176     787 RESTIVE              W     1   3
+    277     788 RESTORE.             R     1   3
+    152     794 RHOTACISM            W     1   3
+    278     801 RIOT.                R     1   3
+    279     803 RIVAL.               R     1   3
+     81     804 ROCK                 W     1   3
+    231     805 ROCKY                W     1   3
+    180     807 ROOT                 W     1   3
+     82     820 SANCTION.            R     1   3
+     83     821 SANGUINE.            R     1   3
+     84     827 SCAN                 W     1   3
+     85     830 SCREEN.              R     1   3
+    280     831 SCREWED              W     1   3
+    232     836 SECRETE.             R     1   3
+    153     837 SECRETED             W     1   3
+     86     841 SEED                 W     1   3
+    233     842 SEEDED               W     1   3
+    181     848 SET                  W     1   3
+    234     849 SETTLE               W     1   3
+    154     851 SEVERAL              W     1   3
+    263     856 SHANK                W     1   3
+    155     860 SHED                 W     1   3
+    271     862 SHELL                W     1   3
+    156     863 SHELLED              W     1   3
+     87     869 SHOP.                R     1   3
+    157     873 SHOW-STOPPER         W     1   3
+    158     876 SICK.                R     1   3
+    159     881 SINOPLE              W     1   3
+    235     882 SIREN.               R     1   3
+     88     883 SKIN (reversive      W     1   3
+     89     884 SKINNED (reversive   W     1   3
+    160     886 SLAVE                W     1   3
+    236     896 SNAP                 W     1   3
+    310     907 SOUTHERLY            W     1   3
+    311     911 SPEAR_CARRIER.       R     1   3
+     90     917 SPLICE               W     1   3
+    312     923 SPRING_FEVER         W     1   3
+    237     929 STAIN                W     1   3
+     91     931 STAKEHOLDER.         R     1   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:     9  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   1  contronyms                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    313     941 STATION_TO_STATION   W     1   3
+    314     942 STAVE                W     1   3
+    161     943 STAY                 W     1   3
+    260     946 STEM                 W     1   3
+    238     952 STIPULAT.(e          R     1   3
+    268     956 STONE                W     1   3
+     92     963 STRIKE.              R     1   3
+    162     977 SUSPICIOUS.          R     1   3
+     93     984 TABLE                W     1   3
+    315     987 TAKE                 W     1   3
+    163     993 TARGETED             W     1   3
+     94    1000 TEMPER               W     1   3
+    316    1005 TERRIBLE             W     1   3
+    164    1006 TERRIFIC.            R     1   3
+     95    1013 THROW_OUT            W     1   3
+    239    1018 TILT                 W     1   3
+    257    1029 TOSS_OUT             W     1   3
+     96    1037 TRANSPARENT.         R     1   3
+     97    1042 TRIM                 W     1   3
+     98    1043 TRIP                 W     1   3
+    165    1044 TRIPPING             W     1   3
+    166    1051 TRYING               W     1   3
+    262    1052 TUBE                 W     1   3
+     99    1059 UNBENDING            W     1   3
+    177    1061 UNLOCKABLE           W     1   3
+    240    1062 UNQUALIFIED.         R     1   3
+    167    1063 UNSHELLED            W     1   3
+    317    1064 UNTHAW.              R     1   3
+    100    1072 VARIET.(y            R     1   3
+    168    1073 VAULT                W     1   3
+    241    1074 VEGETATIVE.          R     1   3
+    242    1075 VERNACULAR           W     1   3
+    243    1079 VITAL                W     1   3
+    244    1086 WATER                W     1   3
+    101    1090 WEAR                 W     1   3
+    102    1091 WEATHER.             R     1   3
+    258    1094 WENT_OFF             W     1   3
+    318    1095 WESTERLY             W     1   3
+    169    1100 WICKED               W     1   3
+    245    1101 WIDDERSHINS          W     1   3
+    104    1106 WIND_UP              W     1   3
+    105    1108 WITH                 W     1   3
+    246    1113 WRAITH               W     1   3
+    247    1115 X                    W     1   3
+    319    1117 YEAH_RIGHT           W     1   3
+
+
+
+STATISTICS FOR CATEGORY..       1
+WORDS....................     211
+ROOTS....................      94
+TOTAL....................     305
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    10  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   1  contronyms                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    11  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   2  polysemous                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    854       3 ACCEPT               W     2   3
+    643       4 ACCOUNT              W     2   3
+    855       5 ACE                  W     2   3
+    605       6 ACT                  W     2   3
+    767       7 ACTION               W     2   3
+    547       8 ACTIVE               W     2   3
+    455       9 ADDRESS              W     2   3
+    999      10 ADMIT                W     2   3
+    427      12 ADVANCE.             R     2   3
+   1000      13 AFFAIR               W     2   3
+    856      15 AIM                  W     2   3
+    606      16 AIR                  W     2   3
+   1001      20 ANGLE                W     2   3
+   1002      21 ANNUAL.              R     2   3
+    607      23 ANSWER               W     2   3
+    644      28 APPROACH             W     2   3
+    532      31 ARM                  W     2   3
+    533      32 ARMS                 W     2   3
+   1003      34 ARTICLE.             R     2   3
+    517      36 ATMOSPHERE           W     2   3
+    608      37 ATTACK               W     2   3
+    768      39 AVERAGE              W     2   3
+    645      41 AWAY                 W     2   3
+    372      44 BACK                 W     2   3
+    646      47 BAG                  W     2   3
+    545      48 BAIL                 W     2   3
+    574      49 BALANCE              W     2   3
+    701      50 BALL                 W     2   3
+    609      51 BAND                 W     2   3
+    769      52 BANG                 W     2   3
+    456      53 BANK                 W     2   3
+    444      54 BAR                  W     2   3
+    702      55 BARE                 W     2   3
+    991      56 BARK                 W     2   3
+    368      57 BASE                 W     2   3
+    534      58 BAT                  W     2   3
+   1004      59 BATTERY              W     2   3
+    647      60 BE                   W     2   3
+    703      61 BEAM                 W     2   3
+    610      62 BEAR                 W     2   3
+    359      63 BEAT                 W     2   3
+    704      64 BED                  W     2   3
+    857      66 BEGIN                W     2   3
+   1005      67 BEING                W     2   3
+    858      69 BELL                 W     2   3
+   1006      70 BELT                 W     2   3
+    770      71 BEND                 W     2   3
+    705      73 BETTER               W     2   3
+    548      76 BIG                  W     2   3
+    859      79 BIND                 W     2   3
+    860      80 BIT                  W     2   3
+    706      82 BITE                 W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    12  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   2  polysemous                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    771      83 BITTER               W     2   3
+    403      85 BLACK                W     2   3
+    575      86 BLAST                W     2   3
+    373      88 BLOCK                W     2   3
+    369      89 BLOW                 W     2   3
+    576      90 BLUE                 W     2   3
+   1007      91 BLUFF                W     2   3
+    707      93 BOARD                W     2   3
+    772      94 BOB                  W     2   3
+    773      95 BODY                 W     2   3
+    648      98 BOND                 W     2   3
+    496     100 BOOK                 W     2   3
+   1008     101 BOOT                 W     2   3
+    774     103 BOTTOM               W     2   3
+    649     105 BOW                  W     2   3
+    775     106 BOWL                 W     2   3
+    530     107 BOX                  W     2   3
+    708     108 BRACE                W     2   3
+    334     109 BREAK                W     2   3
+    445     110 BREAK_UP             W     2   3
+    498     111 BRIDGE.              R     2   3
+    776     112 BRIDGE               W     2   3
+    861     113 BRIGHT.              R     2   3
+    862     114 BRING                W     2   3
+   1009     115 BROKE                W     2   3
+    709     116 BROKEN               W     2   3
+    611     117 BRUSH                W     2   3
+   1010     119 BUG                  W     2   3
+    777     120 BUILD                W     2   3
+   1011     121 BULB                 W     2   3
+    612     122 BULL                 W     2   3
+    428     123 BURN                 W     2   3
+    778     124 BURST                W     2   3
+    779     125 BUTT                 W     2   3
+   1012     127 CABINET              W     2   3
+   1013     128 CABLE                W     2   3
+    535     129 CALF                 W     2   3
+    345     130 CALL                 W     2   3
+    780     131 CAMP                 W     2   3
+   1014     132 CAN                  W     2   3
+    990     133 CANINE               W     2   3
+    863     134 CAP                  W     2   3
+    864     135 CAPITAL              W     2   3
+    865     136 CAPTURE              W     2   3
+    710     137 CARD                 W     2   3
+    866     138 CARE                 W     2   3
+    867     139 CARRIER              W     2   3
+    346     140 CARRY                W     2   3
+    490     141 CASE                 W     2   3
+    429     142 CAST                 W     2   3
+    349     143 CATCH                W     2   3
+   1015     144 CELL                 W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    13  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   2  polysemous                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    393     145 CENTER               W     2   3
+    868     146 CENTRE               W     2   3
+    781     148 CHAIN                W     2   3
+    430     149 CHANGE               W     2   3
+    869     150 CHANNEL              W     2   3
+    347     151 CHARGE               W     2   3
+   1016     152 CHARM                W     2   3
+    350     154 CHECK                W     2   3
+    510     155 CHICKEN              W     2   3
+   1017     156 CHINA                W     2   3
+    650     157 CHIP                 W     2   3
+    577     158 CHOKE                W     2   3
+    870     159 CHOP                 W     2   3
+    871     163 CIRCLE               W     2   3
+    872     165 CLAIM                W     2   3
+    529     166 CLASS                W     2   3
+    365     167 CLEAN                W     2   3
+    339     168 CLEAR.               R     2   3
+    873     170 CLICK                W     2   3
+    874     171 CLINCH               W     2   3
+   1018     173 CLOG                 W     2   3
+    352     174 CLOSE                W     2   3
+    651     175 CLOUD                W     2   3
+    875     176 CLUB                 W     2   3
+    997     178 COACH.               R     2   3
+    518     179 COAT                 W     2   3
+    578     181 COLD                 W     2   3
+    876     182 COLLAPSE             W     2   3
+    782     183 COLLAR               W     2   3
+    652     184 COLOR                W     2   3
+    653     185 COLOUR               W     2   3
+    404     186 COME                 W     2   3
+    877     187 COME_OUT             W     2   3
+    783     188 COME_UP              W     2   3
+    784     189 COMMAND              W     2   3
+    785     191 COMMISSION           W     2   3
+    878     192 COMPOUND             W     2   3
+    879     194 CONCENTRATE          W     2   3
+    711     195 CONDITION            W     2   3
+    880     196 CONNECT              W     2   3
+    881     200 CONTACT              W     2   3
+    786     204 CONTRACT             W     2   3
+    431     205 CONTROL              W     2   3
+    787     206 CONVERT              W     2   3
+    882     211 CORE                 W     2   3
+    513     213 CORN                 W     2   3
+    654     214 CORNER               W     2   3
+    788     215 CORRECT              W     2   3
+    526     216 COTTON               W     2   3
+    789     218 COUNT                W     2   3
+    712     219 COUNTER              W     2   3
+    713     221 COURSE               W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    14  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   2  polysemous                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    655     222 COURT                W     2   3
+    355     223 COVER                W     2   3
+    883     224 CRAB                 W     2   3
+    386     225 CRACK                W     2   3
+    497     226 CRANE.               R     2   3
+    457     227 CRASH                W     2   3
+    506     228 CRAWL.               R     2   3
+    714     229 CREDIT               W     2   3
+    579     232 CROSS                W     2   3
+    580     233 CROWN                W     2   3
+    790     234 CRUSH                W     2   3
+    791     235 CRY                  W     2   3
+    884     237 CUP                  W     2   3
+   1019     238 CURB                 W     2   3
+    715     241 CUTTING              W     2   3
+    885     243 CYCLE                W     2   3
+    613     244 DARK                 W     2   3
+   1020     245 DART                 W     2   3
+    792     246 DASH                 W     2   3
+    536     247 DATE                 W     2   3
+    413     248 DEAD                 W     2   3
+    491     249 DEAL                 W     2   3
+    886     251 DECLINE              W     2   3
+    414     252 DEEP                 W     2   3
+    887     253 DEFENCE              W     2   3
+    793     254 DEFENSE              W     2   3
+    794     255 DELIVER              W     2   3
+    888     256 DEMAND               W     2   3
+    795     257 DEPOSIT              W     2   3
+    656     259 DESIGN               W     2   3
+    415     260 DEVELOP              W     2   3
+   1021     261 DIAMOND              W     2   3
+    657     262 DIE                  W     2   3
+    716     263 DIG                  W     2   3
+   1022     264 DIGIT                W     2   3
+    394     266 DIP                  W     2   3
+    387     267 DIRECT               W     2   3
+    717     268 DIRTY                W     2   3
+    432     269 DISCHARGE            W     2   3
+    796     272 DISSOLVE             W     2   3
+   1023     273 DIVE                 W     2   3
+    797     274 DIVISION             W     2   3
+    581     275 DO                   W     2   3
+    798     276 DOCK                 W     2   3
+    416     278 DOUBLE               W     2   3
+   1024     280 DOUGH                W     2   3
+    658     283 DRAFT                W     2   3
+    549     284 DRAG                 W     2   3
+    550     287 DRIFT                W     2   3
+    516     288 DRINKER              W     2   3
+    360     289 DRIVE                W     2   3
+    363     290 DROP                 W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    15  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   2  polysemous                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    998     292 DUCK.                R     2   3
+   1025     293 DUCK                 W     2   3
+    446     294 DULL                 W     2   3
+   1026     295 DUMP                 W     2   3
+    614     299 EASY                 W     2   3
+    458     304 END                  W     2   3
+    615     307 ESCAPE               W     2   3
+    659     308 EVEN                 W     2   3
+    551     310 EXCHANGE             W     2   3
+    889     312 EXERCISE             W     2   3
+    718     313 EXPRESS              W     2   3
+    552     314 EXTEND               W     2   3
+    799     315 EXTENSION            W     2   3
+    993     316 EYE.                 R     2   3
+    492     317 FACE                 W     2   3
+    890     319 FAIL                 W     2   3
+    553     320 FAIR                 W     2   3
+    342     321 FALL                 W     2   3
+    891     322 FALSE                W     2   3
+    538     323 FAN                  W     2   3
+    800     327 FEED                 W     2   3
+    554     328 FEEL                 W     2   3
+   1027     329 FELT                 W     2   3
+   1028     330 FENCE                W     2   3
+    417     331 FIELD                W     2   3
+    459     333 FIGURE               W     2   3
+   1029     334 FILE                 W     2   3
+    892     335 FILL                 W     2   3
+    527     336 FILLING              W     2   3
+    460     338 FIND                 W     2   3
+    418     342 FIRE                 W     2   3
+    660     344 FIRM                 W     2   3
+    582     345 FIRST                W     2   3
+    583     347 FIT                  W     2   3
+    801     349 FLAG                 W     2   3
+    893     351 FLAP                 W     2   3
+    616     352 FLARE                W     2   3
+    447     353 FLASH                W     2   3
+    388     354 FLAT                 W     2   3
+    802     356 FLICK                W     2   3
+    803     357 FLIGHT               W     2   3
+   1030     358 FLING                W     2   3
+    461     359 FLIP                 W     2   3
+    584     360 FLOAT                W     2   3
+    804     362 FLOOR                W     2   3
+    661     363 FLOW                 W     2   3
+    462     364 FLUSH                W     2   3
+    894     365 FLUX                 W     2   3
+    433     366 FLY                  W     2   3
+    805     367 FOCUS                W     2   3
+    806     368 FOLD                 W     2   3
+    389     369 FOLLOW               W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    16  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   2  polysemous                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    662     370 FOOT                 W     2   3
+    463     372 FORCE                W     2   3
+    395     373 FORM                 W     2   3
+    519     374 FORTUNE              W     2   3
+    807     375 FORWARD              W     2   3
+    585     376 FOUL                 W     2   3
+    464     378 FRAME                W     2   3
+    405     379 FREE                 W     2   3
+    663     380 FREEZE               W     2   3
+    719     381 FRESH                W     2   3
+    586     382 FRET                 W     2   3
+    720     383 FRONT                W     2   3
+    721     384 FULL                 W     2   3
+   1031     386 FUSE                 W     2   3
+   1032     388 GAG                  W     2   3
+    722     389 GAIN                 W     2   3
+    664     390 GAME                 W     2   3
+   1033     392 GAS                  W     2   3
+    895     393 GATHER               W     2   3
+    896     394 GAUGE                W     2   3
+    499     395 GAVE                 W     2   3
+   1034     396 GEAR                 W     2   3
+   1035     398 GERM                 W     2   3
+    353     399 GET                  W     2   3
+    897     400 GET_OFF              W     2   3
+   1036     401 GIN                  W     2   3
+    340     402 GIVE                 W     2   3
+    808     404 GIVE_UP              W     2   3
+   1037     405 GLARE                W     2   3
+    809     406 GLASS                W     2   3
+    528     407 GLASSES              W     2   3
+    810     408 GLOW                 W     2   3
+    374     411 GOOD                 W     2   3
+    723     414 GRADE                W     2   3
+    617     415 GRAIN                W     2   3
+    618     416 GRANT                W     2   3
+    898     417 GRASS                W     2   3
+   1038     418 GRATE                W     2   3
+   1039     419 GRAVE                W     2   3
+    619     420 GRAY                 W     2   3
+    665     421 GREEN                W     2   3
+    724     422 GREY                 W     2   3
+   1040     423 GRILL                W     2   3
+    899     424 GRIND                W     2   3
+    396     425 GROUND               W     2   3
+    666     426 GUARD                W     2   3
+    900     427 GUIDE                W     2   3
+   1041     428 HABIT                W     2   3
+    520     430 HALL                 W     2   3
+    587     431 HAND                 W     2   3
+    508     433 HANDS                W     2   3
+    465     434 HANG                 W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    17  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   2  polysemous                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    406     435 HARD                 W     2   3
+   1042     437 HATCH                W     2   3
+    434     438 HAVE                 W     2   3
+    343     439 HEAD                 W     2   3
+    901     440 HEAT                 W     2   3
+    667     441 HEAVE                W     2   3
+    370     442 HEAVY                W     2   3
+    902     443 HEEL                 W     2   3
+    811     445 HELP                 W     2   3
+   1043     447 HIDE                 W     2   3
+    466     448 HIGH                 W     2   3
+    489     449 HIT                  W     2   3
+    812     450 HITCH                W     2   3
+    341     452 HOLD                 W     2   3
+    555     454 HOME                 W     2   3
+    903     456 HOOD                 W     2   3
+    435     457 HOOK                 W     2   3
+    813     459 HORN                 W     2   3
+    904     460 HOST                 W     2   3
+    419     461 HOT                  W     2   3
+   1044     462 HOUND                W     2   3
+    668     463 HOUSE                W     2   3
+    620     464 HUNT                 W     2   3
+    669     465 HURT                 W     2   3
+    905     467 ICE                  W     2   3
+    906     468 IMAGE                W     2   3
+   1045     471 INCENSE              W     2   3
+   1046     472 INCLINE              W     2   3
+   1047     478 INTEREST             W     2   3
+    907     481 INTIMATE             W     2   3
+   1048     483 IRON                 W     2   3
+    908     484 IRREGULAR            W     2   3
+    588     485 ISSUE                W     2   3
+    670     486 JACK                 W     2   3
+    909     487 JACKSON              W     2   3
+    910     488 JAM                  W     2   3
+   1049     489 JAR                  W     2   3
+    911     490 JERK                 W     2   3
+    556     491 JOB                  W     2   3
+    420     493 JUMP                 W     2   3
+    814     494 JUST                 W     2   3
+    379     495 KEEP                 W     2   3
+    421     496 KEY                  W     2   3
+    671     497 KICK                 W     2   3
+   1050     498 KID                  W     2   3
+    467     499 KILL                 W     2   3
+   1051     500 KIND                 W     2   3
+    912     501 KNOCK                W     2   3
+    815     502 KNOW                 W     2   3
+   1052     503 LACE                 W     2   3
+    468     504 LAND                 W     2   3
+    913     505 LAP                  W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    18  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   2  polysemous                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    914     506 LARGE                W     2   3
+    915     508 LATE                 W     2   3
+    366     509 LEAD                 W     2   3
+   1053     511 LEAF                 W     2   3
+   1054     512 LEAN                 W     2   3
+    557     514 LEAVE                W     2   3
+    521     517 LETTER               W     2   3
+    448     518 LEVEL                W     2   3
+   1055     520 LIE                  W     2   3
+    672     523 LIFE                 W     2   3
+    356     524 LIFT                 W     2   3
+    338     525 LIGHT                W     2   3
+    916     526 LIKE                 W     2   3
+    357     527 LINE                 W     2   3
+    725     528 LINK                 W     2   3
+    505     529 LIP                  W     2   3
+    917     530 LIQUID               W     2   3
+   1056     532 LITTER               W     2   3
+    449     533 LIVE                 W     2   3
+    673     535 LOAD                 W     2   3
+   1057     536 LOAF                 W     2   3
+   1058     537 LOBBY                W     2   3
+    621     538 LOCK                 W     2   3
+   1059     539 LOG                  W     2   3
+    816     540 LONG                 W     2   3
+    674     541 LOOK                 W     2   3
+    622     542 LOOP                 W     2   3
+    469     543 LOOSE                W     2   3
+   1060     544 LOT                  W     2   3
+   1061     545 LOUNGE               W     2   3
+    589     546 LOW                  W     2   3
+    726     550 MAJOR                W     2   3
+    337     551 MAKE                 W     2   3
+    727     552 MAN                  W     2   3
+   1062     554 MARBLE               W     2   3
+    675     555 MARCH                W     2   3
+    918     558 MASS                 W     2   3
+    623     559 MASTER               W     2   3
+    919     560 MAT                  W     2   3
+    470     561 MATCH                W     2   3
+    728     562 MATE                 W     2   3
+    920     563 MATERIAL             W     2   3
+    921     564 MATURE               W     2   3
+   1063     565 MEAL                 W     2   3
+    729     567 MEASURE              W     2   3
+    730     569 MEDIUM               W     2   3
+    731     570 MEET                 W     2   3
+   1064     571 MIGHT                W     2   3
+    502     572 MILK.                R     2   3
+    732     573 MIND                 W     2   3
+   1065     574 MINE                 W     2   3
+    817     575 MINOR                W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    19  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   2  polysemous                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    540     576 MINT                 W     2   3
+   1066     577 MINUTE               W     2   3
+    818     578 MISS                 W     2   3
+    676     580 MOLD                 W     2   3
+    500     581 MOLE                 W     2   3
+    501     586 MOUNT                W     2   3
+    922     587 MOUTH                W     2   3
+    422     588 MOVE                 W     2   3
+    923     589 MOVEMENT             W     2   3
+   1067     590 MUG                  W     2   3
+   1068     591 NAG                  W     2   3
+    522     592 NAIL                 W     2   3
+    624     593 NAME                 W     2   3
+   1069     594 NAP                  W     2   3
+    733     595 NATURAL.             R     2   3
+    523     596 NAVY                 W     2   3
+    819     597 NEGATIVE             W     2   3
+    546     600 NET                  W     2   3
+    924     601 NEW                  W     2   3
+    503     602 NEWSPAPER.           R     2   3
+    677     605 NOSE                 W     2   3
+    925     607 NOTICE               W     2   3
+   1070     608 NOVEL                W     2   3
+    471     610 NUMBER               W     2   3
+   1071     611 NUT                  W     2   3
+    514     612 OAK                  W     2   3
+    926     613 OBSCURE              W     2   3
+   1072     614 ODD                  W     2   3
+    590     616 OFFER                W     2   3
+    927     617 OFFSET               W     2   3
+    358     618 OPEN                 W     2   3
+    678     619 OPENING              W     2   3
+    928     621 OPERATION            W     2   3
+    929     623 OPPOSITE             W     2   3
+    524     624 ORANGE               W     2   3
+    390     625 ORDER                W     2   3
+   1073     626 ORGAN                W     2   3
+    679     630 OUTSIDE              W     2   3
+    407     635 PACK                 W     2   3
+    930     636 PAD                  W     2   3
+    931     637 PALL                 W     2   3
+   1074     638 PALM                 W     2   3
+    992     639 PANEL.               R     2   3
+   1075     640 PANEL                W     2   3
+   1076     643 PARK                 W     2   3
+    450     644 PART                 W     2   3
+    344     646 PASS                 W     2   3
+   1077     647 PASSAGE              W     2   3
+    820     648 PASSING              W     2   3
+    734     649 PATCH                W     2   3
+   1078     650 PATIENT              W     2   3
+   1079     651 PAWN                 W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    20  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   2  polysemous                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    821     652 PAY                  W     2   3
+    539     655 PEN                  W     2   3
+   1080     656 PERIOD               W     2   3
+   1081     659 PET                  W     2   3
+    423     660 PICK                 W     2   3
+    591     661 PICK_UP              W     2   3
+    822     662 PICTURE              W     2   3
+    472     663 PIECE                W     2   3
+    932     664 PILE                 W     2   3
+    625     665 PIN                  W     2   3
+    823     666 PINCH                W     2   3
+    995     667 PISSED               W     2   3
+    541     670 PITCHER              W     2   3
+    364     672 PLACE                W     2   3
+    933     673 PLAIN                W     2   3
+   1082     674 PLANE                W     2   3
+    934     675 PLASTER              W     2   3
+    592     676 PLATE                W     2   3
+    336     677 PLAY                 W     2   3
+    542     678 PLOT                 W     2   3
+    680     679 PLUG                 W     2   3
+    935     680 POCKET               W     2   3
+    348     681 POINT                W     2   3
+    537     682 POKER                W     2   3
+    735     683 POLE                 W     2   3
+    936     685 POOL                 W     2   3
+    451     686 POP                  W     2   3
+    681     687 PORT                 W     2   3
+    473     688 POSITION             W     2   3
+    736     689 POSITIVE             W     2   3
+    397     690 POST                 W     2   3
+   1083     691 POT                  W     2   3
+    408     692 POUND                W     2   3
+    937     693 POWER                W     2   3
+    474     696 PRESENT              W     2   3
+    398     698 PRESS                W     2   3
+    938     700 PRICK                W     2   3
+    824     701 PRIME                W     2   3
+    939     702 PRINT                W     2   3
+    737     703 PROCESS              W     2   3
+   1084     704 PRODUCE              W     2   3
+    525     705 PRODUCTION           W     2   3
+    682     706 PROJECT              W     2   3
+    825     707 PROOF                W     2   3
+    826     712 PUDDLE               W     2   3
+    558     713 PUFF                 W     2   3
+    391     714 PULL                 W     2   3
+    940     715 PUMP                 W     2   3
+    996     716 PUNCH.               R     2   3
+    989     717 PUPIL.               R     2   3
+    626     718 PUSH                 W     2   3
+   1085     722 QUACK                W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    21  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   2  polysemous                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    475     726 QUARTER              W     2   3
+    827     727 QUEEN                W     2   3
+    941     728 QUESTION             W     2   3
+    738     730 QUIET                W     2   3
+    507     732 RABBIT.              R     2   3
+   1086     733 RACE                 W     2   3
+    476     734 RACK                 W     2   3
+   1087     735 RACKET               W     2   3
+    942     736 RADICAL              W     2   3
+    943     737 RAG                  W     2   3
+    627     738 RAIL                 W     2   3
+    367     739 RAISE                W     2   3
+   1088     740 RAM                  W     2   3
+    559     741 RANGE                W     2   3
+    739     742 RANK                 W     2   3
+   1089     743 RAP                  W     2   3
+   1090     744 RASH                 W     2   3
+    944     745 RAT                  W     2   3
+    683     747 RAW                  W     2   3
+    740     748 REACH                W     2   3
+    828     749 READ                 W     2   3
+    741     750 REAL                 W     2   3
+    945     751 REAR                 W     2   3
+    829     752 RECALL               W     2   3
+    742     753 RECEIVE              W     2   3
+    830     754 RECORD               W     2   3
+    436     756 REDUCE               W     2   3
+    946     758 REFERENCE            W     2   3
+   1091     759 REFLECT              W     2   3
+   1092     762 REFRAIN              W     2   3
+   1093     763 REFUSE               W     2   3
+    560     764 REGISTER             W     2   3
+    561     765 REGULAR              W     2   3
+    947     767 RELIEF               W     2   3
+    948     768 RELIEVE              W     2   3
+   1094     769 RELISH               W     2   3
+    684     770 RENDER               W     2   3
+    743     773 REPORT               W     2   3
+    628     774 REPRESENT            W     2   3
+   1095     779 RESERVATION          W     2   3
+    949     780 RESERVE              W     2   3
+    950     783 RESISTANCE           W     2   3
+    951     784 RESOLUTION           W     2   3
+   1096     785 RESORT               W     2   3
+    477     786 REST                 W     2   3
+    952     789 RETIRE               W     2   3
+    953     790 RETREAT              W     2   3
+    371     791 RETURN               W     2   3
+    685     792 REVERSE              W     2   3
+    629     793 REVIEW               W     2   3
+    744     795 RICH                 W     2   3
+    593     796 RIDE                 W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    22  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   2  polysemous                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    954     797 RIDGE                W     2   3
+    955     798 RIG                  W     2   3
+    354     799 RIGHT                W     2   3
+    630     800 RING                 W     2   3
+    375     802 RISE                 W     2   3
+    362     806 ROLL                 W     2   3
+    478     808 ROUGH                W     2   3
+    380     809 ROUND                W     2   3
+   1097     810 ROW                  W     2   3
+    831     811 RUFFLE               W     2   3
+    832     812 RUIN                 W     2   3
+    452     813 RULE                 W     2   3
+   1098     814 RULER                W     2   3
+    335     815 RUN                  W     2   3
+    956     816 RUNNING              W     2   3
+    594     817 RUSH                 W     2   3
+    745     818 SACK                 W     2   3
+   1099     819 SAGE                 W     2   3
+   1100     822 SAP                  W     2   3
+    833     823 SAVE                 W     2   3
+   1101     824 SAW                  W     2   3
+    834     825 SAY                  W     2   3
+    479     826 SCALE                W     2   3
+    480     828 SCORE                W     2   3
+    562     829 SCRATCH              W     2   3
+    631     832 SEAL                 W     2   3
+    595     833 SEAT                 W     2   3
+    632     834 SECOND               W     2   3
+    686     835 SECRET               W     2   3
+    633     838 SECTION              W     2   3
+    957     839 SECURE               W     2   3
+    381     840 SEE                  W     2   3
+   1102     843 SENSE                W     2   3
+   1103     844 SENTENCE             W     2   3
+    453     845 SEPARATE             W     2   3
+    596     846 SERVE                W     2   3
+    481     847 SERVICE              W     2   3
+    634     850 SET_UP               W     2   3
+    687     852 SHADE                W     2   3
+    835     853 SHADOW               W     2   3
+    688     854 SHAFT                W     2   3
+    635     855 SHAKE                W     2   3
+    958     857 SHAPE                W     2   3
+   1104     858 SHARE                W     2   3
+    636     859 SHARP                W     2   3
+    512     861 SHEET                W     2   3
+    399     864 SHIFT                W     2   3
+    959     865 SHINE                W     2   3
+   1105     866 SHIP                 W     2   3
+    563     867 SHOCK                W     2   3
+    409     868 SHOOT                W     2   3
+    400     870 SHORT                W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    23  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   2  polysemous                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    482     871 SHOT                 W     2   3
+    597     872 SHOW                 W     2   3
+    515     874 SHOWER               W     2   3
+   1106     875 SHUTTLE              W     2   3
+    689     877 SIDE                 W     2   3
+    437     878 SIGN                 W     2   3
+    836     879 SILVER               W     2   3
+    746     880 SINK                 W     2   3
+    564     885 SLACK                W     2   3
+    960     887 SLICK                W     2   3
+   1107     888 SLIDE                W     2   3
+    378     889 SLIP                 W     2   3
+    961     890 SLOW                 W     2   3
+    837     891 SMACK                W     2   3
+    747     892 SMALL                W     2   3
+   1108     893 SMART                W     2   3
+    598     894 SMASH                W     2   3
+    838     895 SMOOTH               W     2   3
+    962     897 SO                   W     2   3
+    963     898 SOAK                 W     2   3
+   1109     899 SOCK                 W     2   3
+    438     900 SOFT                 W     2   3
+   1110     901 SOLE                 W     2   3
+    483     902 SOLID                W     2   3
+   1111     903 SORE                 W     2   3
+    382     904 SOUND                W     2   3
+    964     905 SOUR                 W     2   3
+    965     906 SOURCE               W     2   3
+   1112     908 SOW                  W     2   3
+   1113     909 SPADE                W     2   3
+    748     910 SPARE                W     2   3
+   1114     912 SPEED                W     2   3
+   1115     913 SPELL                W     2   3
+    565     914 SPIKE                W     2   3
+    749     915 SPIN                 W     2   3
+    750     916 SPLASH               W     2   3
+    484     918 SPLIT                W     2   3
+    966     919 SPOIL                W     2   3
+    439     920 SPOT                 W     2   3
+    401     921 SPREAD               W     2   3
+    967     922 SPRING               W     2   3
+    383     924 SQUARE               W     2   3
+   1116     925 SQUASH               W     2   3
+    566     926 SQUEEZE              W     2   3
+   1117     927 STABLE               W     2   3
+   1118     928 STAFF                W     2   3
+   1119     930 STAKE                W     2   3
+   1120     932 STALK                W     2   3
+    690     933 STALL                W     2   3
+    485     934 STAMP                W     2   3
+    392     935 STAND                W     2   3
+    968     936 STANDARD             W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    24  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   2  polysemous                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+   1121     937 STAPLE               W     2   3
+    839     938 STAR                 W     2   3
+    410     939 START                W     2   3
+    969     940 STATE                W     2   3
+   1122     944 STEEP                W     2   3
+   1123     945 STEER                W     2   3
+    424     947 STEP                 W     2   3
+   1124     948 STERN                W     2   3
+    384     949 STICK                W     2   3
+    970     950 STIFF                W     2   3
+    486     951 STILL                W     2   3
+    971     953 STIR                 W     2   3
+   1125     954 STITCH               W     2   3
+    376     955 STOCK                W     2   3
+    411     957 STOP                 W     2   3
+   1126     958 STORE                W     2   3
+    425     959 STRAIGHT             W     2   3
+    440     960 STRAIN               W     2   3
+   1127     961 STRESS               W     2   3
+    441     962 STRETCH              W     2   3
+   1128     964 STRIKE               W     2   3
+    567     965 STRING               W     2   3
+    454     966 STRIP                W     2   3
+    599     967 STROKE               W     2   3
+   1129     968 STUD                 W     2   3
+    600     969 STUDY                W     2   3
+    691     970 STUFF                W     2   3
+    840     971 STYLE                W     2   3
+    692     972 SUBJECT              W     2   3
+    972     973 SUFFER               W     2   3
+   1130     974 SUIT                 W     2   3
+    751     975 SUPERIOR             W     2   3
+    493     976 SUPPORT              W     2   3
+    973     978 SWALLOW              W     2   3
+    637     979 SWEEP                W     2   3
+    601     980 SWEET                W     2   3
+    974     981 SWELL                W     2   3
+    494     982 SWING                W     2   3
+    693     983 SWITCH               W     2   3
+    841     985 TACK                 W     2   3
+    975     986 TAIL                 W     2   3
+    568     988 TAKE_IN              W     2   3
+    694     989 TAKE_OUT             W     2   3
+    752     990 TAKE_UP              W     2   3
+    976     991 TALK                 W     2   3
+    442     992 TAP                  W     2   3
+   1131     994 TART                 W     2   3
+    753     995 TASTE                W     2   3
+   1132     996 TAX                  W     2   3
+   1133     997 TEAR                 W     2   3
+    842     998 TEASE                W     2   3
+    511     999 TELEVISION           W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    25  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   2  polysemous                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+   1134    1001 TEMPLE               W     2   3
+    487    1002 TENDER               W     2   3
+   1135    1003 TERM                 W     2   3
+   1136    1004 TERMINAL             W     2   3
+    754    1007 TEST                 W     2   3
+    755    1008 THICK                W     2   3
+    756    1009 THIN                 W     2   3
+    843    1010 THING                W     2   3
+    695    1011 THINK                W     2   3
+    443    1012 THROW                W     2   3
+    757    1014 THRUST               W     2   3
+    543    1015 TICK                 W     2   3
+    488    1016 TIE                  W     2   3
+    602    1017 TIGHT                W     2   3
+    638    1019 TIME                 W     2   3
+    509    1020 TIN                  W     2   3
+    696    1021 TIP                  W     2   3
+   1137    1022 TIRE                 W     2   3
+    844    1023 TITLE                W     2   3
+    544    1024 TOAST                W     2   3
+   1138    1025 TOLL                 W     2   3
+    639    1026 TONE                 W     2   3
+   1139    1027 TOOL                 W     2   3
+    495    1028 TOP                  W     2   3
+    377    1030 TOUCH                W     2   3
+    845    1031 TOUGH                W     2   3
+    697    1032 TRACE                W     2   3
+    603    1033 TRACK                W     2   3
+    846    1034 TRADE                W     2   3
+    569    1035 TRAIN                W     2   3
+    640    1036 TRANSFER             W     2   3
+    977    1038 TRANSPORT            W     2   3
+    847    1039 TRAP                 W     2   3
+   1140    1040 TREAT                W     2   3
+   1141    1041 TRIAL                W     2   3
+    978    1045 TROLL                W     2   3
+    979    1046 TROUBLE              W     2   3
+    641    1047 TRUE                 W     2   3
+    531    1048 TRUNK                W     2   3
+    848    1049 TRUST                W     2   3
+   1142    1050 TRY                  W     2   3
+    758    1053 TUMBLE               W     2   3
+    994    1054 TURKEY               W     2   3
+    351    1055 TURN                 W     2   3
+    849    1056 TURN_OUT             W     2   3
+    402    1057 TWIST                W     2   3
+   1143    1058 TYPE                 W     2   3
+    759    1060 UNION                W     2   3
+    698    1065 UP                   W     2   3
+    980    1066 UPGRADE              W     2   3
+    570    1067 UPSET                W     2   3
+    760    1068 USE                  W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    26  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   2  polysemous                    
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+   1144    1069 VAIN                 W     2   3
+    981    1070 VALUE                W     2   3
+    982    1071 VARIATION            W     2   3
+   1145    1076 VESSEL               W     2   3
+    761    1077 VIEW                 W     2   3
+    762    1078 VISIT                W     2   3
+    763    1080 VOICE                W     2   3
+    571    1081 WALK                 W     2   3
+    850    1082 WARM                 W     2   3
+    426    1083 WASH                 W     2   3
+    604    1084 WASTE                W     2   3
+    764    1085 WATCH                W     2   3
+    699    1087 WAVE                 W     2   3
+    765    1088 WAY                  W     2   3
+    851    1089 WEAK                 W     2   3
+    412    1093 WELL                 W     2   3
+    983    1096 WHET                 W     2   3
+    984    1097 WHIP                 W     2   3
+    985    1098 WHISTLE              W     2   3
+    385    1099 WHITE                W     2   3
+    986    1102 WIDE                 W     2   3
+    572    1103 WILD                 W     2   3
+    987    1104 WILSON               W     2   3
+    642    1105 WIND                 W     2   3
+    852    1107 WING                 W     2   3
+    853    1109 WITHDRAW             W     2   3
+    504    1110 WOOD                 W     2   3
+    988    1111 WORD                 W     2   3
+    361    1112 WORK                 W     2   3
+    766    1114 WRONG                W     2   3
+   1146    1116 YARD                 W     2   3
+    573    1118 YIELD                W     2   3
+    700    1119 YOUNG                W     2   3
+
+
+
+STATISTICS FOR CATEGORY..       2
+WORDS....................     795
+ROOTS....................      18
+TOTAL....................     813
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    27  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    182       1 ABOARD               W     1   3
+    170       2 ABYSMAL.             R     1   3
+    854       3 ACCEPT               W     2   3
+    643       4 ACCOUNT              W     2   3
+    855       5 ACE                  W     2   3
+    605       6 ACT                  W     2   3
+    767       7 ACTION               W     2   3
+    547       8 ACTIVE               W     2   3
+    455       9 ADDRESS              W     2   3
+    999      10 ADMIT                W     2   3
+    106      11 ADUMBRAT.(e          R     1   3
+    427      12 ADVANCE.             R     2   3
+   1000      13 AFFAIR               W     2   3
+    183      14 AGAINST              W     1   3
+    856      15 AIM                  W     2   3
+    606      16 AIR                  W     2   3
+    171      17 ALIGHT               W     1   3
+    285      18 ALLOSEXUAL           W     1   3
+    107      19 ANABASIS             W     1   3
+   1001      20 ANGLE                W     2   3
+   1002      21 ANNUAL.              R     2   3
+    184      22 ANON                 W     1   3
+    607      23 ANSWER               W     2   3
+    185      24 ANXIOUS.             R     1   3
+     29      25 APOLOGIES.(incomp    R     1   3
+     28      26 APOLOGY (incompatib  W     1   3
+    186      27 APPARENT.            R     1   3
+    644      28 APPROACH             W     2   3
+    172      29 APROPOS              W     1   3
+    187      30 ARGUE                W     1   3
+    532      31 ARM                  W     2   3
+    533      32 ARMS                 W     2   3
+    264      33 AROUND (complement   W     1   3
+   1003      34 ARTICLE.             R     2   3
+    188      35 ASSUME.              R     1   3
+    517      36 ATMOSPHERE           W     2   3
+    608      37 ATTACK               W     2   3
+     30      38 AUGHT                W     1   3
+    768      39 AVERAGE              W     2   3
+    189      40 AVOCATION            W     1   3
+    645      41 AWAY                 W     2   3
+    108      42 AWFUL.               R     1   3
+    284      43 A_ROLLING_S.(        R     1   3
+    372      44 BACK                 W     2   3
+    109      45 BACK_UP.             R     1   3
+    286      46 BAD                  W     1   3
+    646      47 BAG                  W     2   3
+    545      48 BAIL                 W     2   3
+    574      49 BALANCE              W     2   3
+    701      50 BALL                 W     2   3
+    609      51 BAND                 W     2   3
+    769      52 BANG                 W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    28  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    456      53 BANK                 W     2   3
+    444      54 BAR                  W     2   3
+    702      55 BARE                 W     2   3
+    991      56 BARK                 W     2   3
+    368      57 BASE                 W     2   3
+    534      58 BAT                  W     2   3
+   1004      59 BATTERY              W     2   3
+    647      60 BE                   W     2   3
+    703      61 BEAM                 W     2   3
+    610      62 BEAR                 W     2   3
+    359      63 BEAT                 W     2   3
+    704      64 BED                  W     2   3
+    110      65 BEFORE               W     1   3
+    857      66 BEGIN                W     2   3
+   1005      67 BEING                W     2   3
+    259      68 BELIE                W     1   3
+    858      69 BELL                 W     2   3
+   1006      70 BELT                 W     2   3
+    770      71 BEND                 W     2   3
+    332      72 BERM                 W     1   3
+    705      73 BETTER               W     2   3
+    190      74 BIANNUAL.            R     1   3
+    287      75 BIBLE_BASHER         W     1   3
+    548      76 BIG                  W     2   3
+     31      77 BILL                 W     1   3
+    191      78 BIMONTHLY            W     1   3
+    859      79 BIND                 W     2   3
+    860      80 BIT                  W     2   3
+    255      81 BITCH                W     1   3
+    706      82 BITE                 W     2   3
+    771      83 BITTER               W     2   3
+    192      84 BIWEEKLY             W     1   3
+    403      85 BLACK                W     2   3
+    575      86 BLAST                W     2   3
+    327      87 BLEACH.              R     1   3
+    373      88 BLOCK                W     2   3
+    369      89 BLOW                 W     2   3
+    576      90 BLUE                 W     2   3
+   1007      91 BLUFF                W     2   3
+    265      92 BLUNT                W     1   3
+    707      93 BOARD                W     2   3
+    772      94 BOB                  W     2   3
+    773      95 BODY                 W     2   3
+     32      96 BOLT                 W     1   3
+    288      97 BOMB                 W     1   3
+    648      98 BOND                 W     2   3
+    111      99 BONED                W     1   3
+    496     100 BOOK                 W     2   3
+   1008     101 BOOT                 W     2   3
+    328     102 BOSOM                W     1   3
+    774     103 BOTTOM               W     2   3
+     33     104 BOUND                W     1   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    29  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    649     105 BOW                  W     2   3
+    775     106 BOWL                 W     2   3
+    530     107 BOX                  W     2   3
+    708     108 BRACE                W     2   3
+    334     109 BREAK                W     2   3
+    445     110 BREAK_UP             W     2   3
+    498     111 BRIDGE.              R     2   3
+    776     112 BRIDGE               W     2   3
+    861     113 BRIGHT.              R     2   3
+    862     114 BRING                W     2   3
+   1009     115 BROKE                W     2   3
+    709     116 BROKEN               W     2   3
+    611     117 BRUSH                W     2   3
+     34     118 BUCKLE.              R     1   3
+   1010     119 BUG                  W     2   3
+    777     120 BUILD                W     2   3
+   1011     121 BULB                 W     2   3
+    612     122 BULL                 W     2   3
+    428     123 BURN                 W     2   3
+    778     124 BURST                W     2   3
+    779     125 BUTT                 W     2   3
+    193     126 BY                   W     1   3
+   1012     127 CABINET              W     2   3
+   1013     128 CABLE                W     2   3
+    535     129 CALF                 W     2   3
+    345     130 CALL                 W     2   3
+    780     131 CAMP                 W     2   3
+   1014     132 CAN                  W     2   3
+    990     133 CANINE               W     2   3
+    863     134 CAP                  W     2   3
+    864     135 CAPITAL              W     2   3
+    865     136 CAPTURE              W     2   3
+    710     137 CARD                 W     2   3
+    866     138 CARE                 W     2   3
+    867     139 CARRIER              W     2   3
+    346     140 CARRY                W     2   3
+    490     141 CASE                 W     2   3
+    429     142 CAST                 W     2   3
+    349     143 CATCH                W     2   3
+   1015     144 CELL                 W     2   3
+    393     145 CENTER               W     2   3
+    868     146 CENTRE               W     2   3
+    194     147 CERTAIN              W     1   3
+    781     148 CHAIN                W     2   3
+    430     149 CHANGE               W     2   3
+    869     150 CHANNEL              W     2   3
+    347     151 CHARGE               W     2   3
+   1016     152 CHARM                W     2   3
+    195     153 CHARTER              W     1   3
+    350     154 CHECK                W     2   3
+    510     155 CHICKEN              W     2   3
+   1017     156 CHINA                W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    30  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    650     157 CHIP                 W     2   3
+    577     158 CHOKE                W     2   3
+    870     159 CHOP                 W     2   3
+    289     160 CHOP_LOGIC           W     1   3
+    112     161 CHUFFED              W     1   3
+    196     162 CIPHER               W     1   3
+    871     163 CIRCLE               W     2   3
+    197     164 CITATION.            R     1   3
+    872     165 CLAIM                W     2   3
+    529     166 CLASS                W     2   3
+    365     167 CLEAN                W     2   3
+    339     168 CLEAR.               R     2   3
+     35     169 CLEAVE.              R     1   3
+    873     170 CLICK                W     2   3
+    874     171 CLINCH               W     2   3
+     36     172 CLIP                 W     1   3
+   1018     173 CLOG                 W     2   3
+    352     174 CLOSE                W     2   3
+    651     175 CLOUD                W     2   3
+    875     176 CLUB                 W     2   3
+    276     177 CO-OPETITION         W     1   3
+    997     178 COACH.               R     2   3
+    518     179 COAT                 W     2   3
+    198     180 COGNOMEN.            R     1   3
+    578     181 COLD                 W     2   3
+    876     182 COLLAPSE             W     2   3
+    782     183 COLLAR               W     2   3
+    652     184 COLOR                W     2   3
+    653     185 COLOUR               W     2   3
+    404     186 COME                 W     2   3
+    877     187 COME_OUT             W     2   3
+    783     188 COME_UP              W     2   3
+    784     189 COMMAND              W     2   3
+    290     190 COMMENCEMENT.        R     1   3
+    785     191 COMMISSION           W     2   3
+    878     192 COMPOUND             W     2   3
+    178     193 COMPRISE             W     1   3
+    879     194 CONCENTRATE          W     2   3
+    711     195 CONDITION            W     2   3
+    880     196 CONNECT              W     2   3
+    113     197 CONSEQUENTIAL.       R     1   3
+     37     198 CONSULT              W     1   3
+    114     199 CONSUM.(e            R     1   3
+    881     200 CONTACT              W     2   3
+    115     201 CONTEMPORAR.(y       R     1   3
+    200     202 CONTINGENT.          R     1   3
+     38     203 CONTINUE             W     1   3
+    786     204 CONTRACT             W     2   3
+    431     205 CONTROL              W     2   3
+    787     206 CONVERT              W     2   3
+    116     207 COOL                 W     1   3
+    275     208 COOPETITION          W     1   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    31  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    324     209 COPEMATE.            R     1   3
+    325     210 COPESMATE.           R     1   3
+    882     211 CORE                 W     2   3
+    199     212 CORK                 W     1   3
+    513     213 CORN                 W     2   3
+    654     214 CORNER               W     2   3
+    788     215 CORRECT              W     2   3
+    526     216 COTTON               W     2   3
+    333     217 COULDN_T_CARE_LESS   W     1   3
+    789     218 COUNT                W     2   3
+    712     219 COUNTER              W     2   3
+    201     220 COUNTERFEIT.         R     1   3
+    713     221 COURSE               W     2   3
+    655     222 COURT                W     2   3
+    355     223 COVER                W     2   3
+    883     224 CRAB                 W     2   3
+    386     225 CRACK                W     2   3
+    497     226 CRANE.               R     2   3
+    457     227 CRASH                W     2   3
+    506     228 CRAWL.               R     2   3
+    714     229 CREDIT               W     2   3
+    117     230 CRITICAL.            R     1   3
+    202     231 CROP                 W     1   3
+    579     232 CROSS                W     2   3
+    580     233 CROWN                W     2   3
+    790     234 CRUSH                W     2   3
+    791     235 CRY                  W     2   3
+    203     236 CULL                 W     1   3
+    884     237 CUP                  W     2   3
+   1019     238 CURB                 W     2   3
+     39     239 CUSTOM               W     1   3
+    272     240 CUT                  W     1   3
+    715     241 CUTTING              W     2   3
+    291     242 CUT_OUT              W     1   3
+    885     243 CYCLE                W     2   3
+    613     244 DARK                 W     2   3
+   1020     245 DART                 W     2   3
+    792     246 DASH                 W     2   3
+    536     247 DATE                 W     2   3
+    413     248 DEAD                 W     2   3
+    491     249 DEAL                 W     2   3
+    204     250 DECEPTIVELY          W     1   3
+    886     251 DECLINE              W     2   3
+    414     252 DEEP                 W     2   3
+    887     253 DEFENCE              W     2   3
+    793     254 DEFENSE              W     2   3
+    794     255 DELIVER              W     2   3
+    888     256 DEMAND               W     2   3
+    795     257 DEPOSIT              W     2   3
+    281     258 DEPTHLESS.(reverse   R     1   3
+    656     259 DESIGN               W     2   3
+    415     260 DEVELOP              W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    32  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+   1021     261 DIAMOND              W     2   3
+    657     262 DIE                  W     2   3
+    716     263 DIG                  W     2   3
+   1022     264 DIGIT                W     2   3
+     40     265 DIKE.                R     1   3
+    394     266 DIP                  W     2   3
+    387     267 DIRECT               W     2   3
+    717     268 DIRTY                W     2   3
+    432     269 DISCHARGE            W     2   3
+     41     270 DISCURSIVE           W     1   3
+    118     271 DISPOSED             W     1   3
+    796     272 DISSOLVE             W     2   3
+   1023     273 DIVE                 W     2   3
+    797     274 DIVISION             W     2   3
+    581     275 DO                   W     2   3
+    798     276 DOCK                 W     2   3
+     42     277 DOLLOP               W     1   3
+    416     278 DOUBLE               W     2   3
+    248     279 DOUBTFUL.            R     1   3
+   1024     280 DOUGH                W     2   3
+    205     281 DOWN                 W     1   3
+    119     282 DOWNHILL             W     1   3
+    658     283 DRAFT                W     2   3
+    549     284 DRAG                 W     2   3
+    261     285 DRAW                 W     1   3
+    206     286 DRESS                W     1   3
+    550     287 DRIFT                W     2   3
+    516     288 DRINKER              W     2   3
+    360     289 DRIVE                W     2   3
+    363     290 DROP                 W     2   3
+    292     291 DRY                  W     1   3
+    998     292 DUCK.                R     2   3
+   1025     293 DUCK                 W     2   3
+    446     294 DULL                 W     2   3
+   1026     295 DUMP                 W     2   3
+     43     296 DUST                 W     1   3
+    207     297 DYKE.                R     1   3
+    293     298 EASTERLY             W     1   3
+    614     299 EASY                 W     2   3
+    208     300 EFFECTIVELY          W     1   3
+    120     301 EGREGIOUS            W     1   3
+    121     302 EITHER               W     1   3
+    329     303 EMANCIPAT.(e         R     1   3
+    458     304 END                  W     2   3
+    122     305 ENDURING             W     1   3
+     44     306 ENJOIN.              R     1   3
+    615     307 ESCAPE               W     2   3
+    659     308 EVEN                 W     2   3
+    123     309 EVENTUAL.            R     1   3
+    551     310 EXCHANGE             W     2   3
+    124     311 EXECUTE              W     1   3
+    889     312 EXERCISE             W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    33  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    718     313 EXPRESS              W     2   3
+    552     314 EXTEND               W     2   3
+    799     315 EXTENSION            W     2   3
+    993     316 EYE.                 R     2   3
+    492     317 FACE                 W     2   3
+    326     318 FACTOID.             R     1   3
+    890     319 FAIL                 W     2   3
+    553     320 FAIR                 W     2   3
+    342     321 FALL                 W     2   3
+    891     322 FALSE                W     2   3
+    538     323 FAN                  W     2   3
+     45     324 FAST                 W     1   3
+    125     325 FEARFUL.             R     1   3
+    126     326 FEARSOME.            R     1   3
+    800     327 FEED                 W     2   3
+    554     328 FEEL                 W     2   3
+   1027     329 FELT                 W     2   3
+   1028     330 FENCE                W     2   3
+    417     331 FIELD                W     2   3
+    256     332 FIGHT_WITH           W     1   3
+    459     333 FIGURE               W     2   3
+   1029     334 FILE                 W     2   3
+    892     335 FILL                 W     2   3
+    527     336 FILLING              W     2   3
+    209     337 FILTER.              R     1   3
+    460     338 FIND                 W     2   3
+     46     339 FINE                 W     1   3
+    210     340 FINISH               W     1   3
+     47     341 FINISHED             W     1   3
+    418     342 FIRE                 W     2   3
+    211     343 FIREMAN              W     1   3
+    660     344 FIRM                 W     2   3
+    582     345 FIRST                W     2   3
+     48     346 FIRST_DEGREE         W     1   3
+    583     347 FIT                  W     2   3
+     49     348 FIX                  W     1   3
+    801     349 FLAG                 W     2   3
+    127     350 FLANK                W     1   3
+    893     351 FLAP                 W     2   3
+    616     352 FLARE                W     2   3
+    447     353 FLASH                W     2   3
+    388     354 FLAT                 W     2   3
+    212     355 FLESH                W     1   3
+    802     356 FLICK                W     2   3
+    803     357 FLIGHT               W     2   3
+   1030     358 FLING                W     2   3
+    461     359 FLIP                 W     2   3
+    584     360 FLOAT                W     2   3
+     50     361 FLOG                 W     1   3
+    804     362 FLOOR                W     2   3
+    661     363 FLOW                 W     2   3
+    462     364 FLUSH                W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    34  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    894     365 FLUX                 W     2   3
+    433     366 FLY                  W     2   3
+    805     367 FOCUS                W     2   3
+    806     368 FOLD                 W     2   3
+    389     369 FOLLOW               W     2   3
+    662     370 FOOT                 W     2   3
+    128     371 FOR                  W     1   3
+    463     372 FORCE                W     2   3
+    395     373 FORM                 W     2   3
+    519     374 FORTUNE              W     2   3
+    807     375 FORWARD              W     2   3
+    585     376 FOUL                 W     2   3
+    294     377 FRAISE               W     1   3
+    464     378 FRAME                W     2   3
+    405     379 FREE                 W     2   3
+    663     380 FREEZE               W     2   3
+    719     381 FRESH                W     2   3
+    586     382 FRET                 W     2   3
+    720     383 FRONT                W     2   3
+    721     384 FULL                 W     2   3
+    320     385 FULSOME              W     1   3
+   1031     386 FUSE                 W     2   3
+    295     387 GAFIATE              W     1   3
+   1032     388 GAG                  W     2   3
+    722     389 GAIN                 W     2   3
+    664     390 GAME                 W     2   3
+     51     391 GARNISH.             R     1   3
+   1033     392 GAS                  W     2   3
+    895     393 GATHER               W     2   3
+    896     394 GAUGE                W     2   3
+    499     395 GAVE                 W     2   3
+   1034     396 GEAR                 W     2   3
+    129     397 GENERALLY            W     1   3
+   1035     398 GERM                 W     2   3
+    353     399 GET                  W     2   3
+    897     400 GET_OFF              W     2   3
+   1036     401 GIN                  W     2   3
+    340     402 GIVE                 W     2   3
+     52     403 GIVE_OUT             W     1   3
+    808     404 GIVE_UP              W     2   3
+   1037     405 GLARE                W     2   3
+    809     406 GLASS                W     2   3
+    528     407 GLASSES              W     2   3
+    810     408 GLOW                 W     2   3
+    296     409 GNARLY               W     1   3
+     53     410 GO                   W     1   3
+    374     411 GOOD                 W     2   3
+    273     412 GOODS                W     1   3
+     54     413 GRADE.               R     1   3
+    723     414 GRADE                W     2   3
+    617     415 GRAIN                W     2   3
+    618     416 GRANT                W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    35  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    898     417 GRASS                W     2   3
+   1038     418 GRATE                W     2   3
+   1039     419 GRAVE                W     2   3
+    619     420 GRAY                 W     2   3
+    665     421 GREEN                W     2   3
+    724     422 GREY                 W     2   3
+   1040     423 GRILL                W     2   3
+    899     424 GRIND                W     2   3
+    396     425 GROUND               W     2   3
+    666     426 GUARD                W     2   3
+    900     427 GUIDE                W     2   3
+   1041     428 HABIT                W     2   3
+    321     429 HACK                 W     1   3
+    520     430 HALL                 W     2   3
+    587     431 HAND                 W     2   3
+     55     432 HANDICAP.            R     1   3
+    508     433 HANDS                W     2   3
+    465     434 HANG                 W     2   3
+    406     435 HARD                 W     2   3
+    130     436 HARDLY               W     1   3
+   1042     437 HATCH                W     2   3
+    434     438 HAVE                 W     2   3
+    343     439 HEAD                 W     2   3
+    901     440 HEAT                 W     2   3
+    667     441 HEAVE                W     2   3
+    370     442 HEAVY                W     2   3
+    902     443 HEEL                 W     2   3
+     56     444 HELP.                R     1   3
+    811     445 HELP                 W     2   3
+    131     446 HEW                  W     1   3
+   1043     447 HIDE                 W     2   3
+    466     448 HIGH                 W     2   3
+    489     449 HIT                  W     2   3
+    812     450 HITCH                W     2   3
+    297     451 HOI_POLLOI           W     1   3
+    341     452 HOLD                 W     2   3
+     57     453 HOLD_UP              W     1   3
+    555     454 HOME                 W     2   3
+    213     455 HOMELY               W     1   3
+    903     456 HOOD                 W     2   3
+    435     457 HOOK                 W     2   3
+    298     458 HORK                 W     1   3
+    813     459 HORN                 W     2   3
+    904     460 HOST                 W     2   3
+    419     461 HOT                  W     2   3
+   1044     462 HOUND                W     2   3
+    668     463 HOUSE                W     2   3
+    620     464 HUNT                 W     2   3
+    669     465 HURT                 W     2   3
+    214     466 HYSTERICAL.          R     1   3
+    905     467 ICE                  W     2   3
+    906     468 IMAGE                W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    36  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    132     469 IMPASSIONATE.        R     1   3
+    173     470 IMPREGNABL.(e        R     1   3
+   1045     471 INCENSE              W     2   3
+   1046     472 INCLINE              W     2   3
+    133     473 INCORPORATE.         R     1   3
+    300     474 INEXISTENCE          W     1   3
+    174     475 INFLAMMABLE          W     1   3
+    323     476 INJOINT.             R     1   3
+    215     477 INOCULAT.(e          R     1   3
+   1047     478 INTEREST             W     2   3
+    330     479 INTERESTING.(ly      R     1   3
+    301     480 INTERMARRY           W     1   3
+    907     481 INTIMATE             W     2   3
+    299     482 IN_CHARGE            W     1   3
+   1048     483 IRON                 W     2   3
+    908     484 IRREGULAR            W     2   3
+    588     485 ISSUE                W     2   3
+    670     486 JACK                 W     2   3
+    909     487 JACKSON              W     2   3
+    910     488 JAM                  W     2   3
+   1049     489 JAR                  W     2   3
+    911     490 JERK                 W     2   3
+    556     491 JOB                  W     2   3
+    216     492 JOINT                W     1   3
+    420     493 JUMP                 W     2   3
+    814     494 JUST                 W     2   3
+    379     495 KEEP                 W     2   3
+    421     496 KEY                  W     2   3
+    671     497 KICK                 W     2   3
+   1050     498 KID                  W     2   3
+    467     499 KILL                 W     2   3
+   1051     500 KIND                 W     2   3
+    912     501 KNOCK                W     2   3
+    815     502 KNOW                 W     2   3
+   1052     503 LACE                 W     2   3
+    468     504 LAND                 W     2   3
+    913     505 LAP                  W     2   3
+    914     506 LARGE                W     2   3
+    217     507 LAST                 W     1   3
+    915     508 LATE                 W     2   3
+    366     509 LEAD                 W     2   3
+    302     510 LEAD_FOOTED          W     1   3
+   1053     511 LEAF                 W     2   3
+   1054     512 LEAN                 W     2   3
+     58     513 LEASE                W     1   3
+    557     514 LEAVE                W     2   3
+     59     515 LEFT                 W     1   3
+     60     516 LET                  W     1   3
+    521     517 LETTER               W     2   3
+    448     518 LEVEL                W     2   3
+    218     519 LICENSE              W     1   3
+   1055     520 LIE                  W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    37  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+     61     521 LIEGE.               R     1   3
+     62     522 LIEGEM.(am           R     1   3
+    672     523 LIFE                 W     2   3
+    356     524 LIFT                 W     2   3
+    338     525 LIGHT                W     2   3
+    916     526 LIKE                 W     2   3
+    357     527 LINE                 W     2   3
+    725     528 LINK                 W     2   3
+    505     529 LIP                  W     2   3
+    917     530 LIQUID               W     2   3
+     63     531 LITERALLY            W     1   3
+   1056     532 LITTER               W     2   3
+    449     533 LIVE                 W     2   3
+    134     534 LIVID.               R     1   3
+    673     535 LOAD                 W     2   3
+   1057     536 LOAF                 W     2   3
+   1058     537 LOBBY                W     2   3
+    621     538 LOCK                 W     2   3
+   1059     539 LOG                  W     2   3
+    816     540 LONG                 W     2   3
+    674     541 LOOK                 W     2   3
+    622     542 LOOP                 W     2   3
+    469     543 LOOSE                W     2   3
+   1060     544 LOT                  W     2   3
+   1061     545 LOUNGE               W     2   3
+    589     546 LOW                  W     2   3
+    303     547 LUCK_OUT             W     1   3
+    135     548 LURID.               R     1   3
+    219     549 MAD                  W     1   3
+    726     550 MAJOR                W     2   3
+    337     551 MAKE                 W     2   3
+    727     552 MAN                  W     2   3
+    304     553 MAN_AMONG_MEN        W     1   3
+   1062     554 MARBLE               W     2   3
+    675     555 MARCH                W     2   3
+    220     556 MARK                 W     1   3
+    249     557 MARRY                W     1   3
+    918     558 MASS                 W     2   3
+    623     559 MASTER               W     2   3
+    919     560 MAT                  W     2   3
+    470     561 MATCH                W     2   3
+    728     562 MATE                 W     2   3
+    920     563 MATERIAL             W     2   3
+    921     564 MATURE               W     2   3
+   1063     565 MEAL                 W     2   3
+     64     566 MEAN                 W     1   3
+    729     567 MEASURE              W     2   3
+    136     568 MEDIOCRE.            R     1   3
+    730     569 MEDIUM               W     2   3
+    731     570 MEET                 W     2   3
+   1064     571 MIGHT                W     2   3
+    502     572 MILK.                R     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    38  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    732     573 MIND                 W     2   3
+   1065     574 MINE                 W     2   3
+    817     575 MINOR                W     2   3
+    540     576 MINT                 W     2   3
+   1066     577 MINUTE               W     2   3
+    818     578 MISS                 W     2   3
+     65     579 MODEL.               R     1   3
+    676     580 MOLD                 W     2   3
+    500     581 MOLE                 W     2   3
+    250     582 MOMENTARILY          W     1   3
+    137     583 MOOT                 W     1   3
+    221     584 MORTAR.              R     1   3
+    138     585 MOSEY                W     1   3
+    501     586 MOUNT                W     2   3
+    922     587 MOUTH                W     2   3
+    422     588 MOVE                 W     2   3
+    923     589 MOVEMENT             W     2   3
+   1067     590 MUG                  W     2   3
+   1068     591 NAG                  W     2   3
+    522     592 NAIL                 W     2   3
+    624     593 NAME                 W     2   3
+   1069     594 NAP                  W     2   3
+    733     595 NATURAL.             R     2   3
+    523     596 NAVY                 W     2   3
+    819     597 NEGATIVE             W     2   3
+    305     598 NERVELESS            W     1   3
+    222     599 NERVY                W     1   3
+    546     600 NET                  W     2   3
+    924     601 NEW                  W     2   3
+    503     602 NEWSPAPER.           R     2   3
+    175     603 NONPLUSSED           W     1   3
+    307     604 NORTHERLY            W     1   3
+    677     605 NOSE                 W     2   3
+    251     606 NOTE                 W     1   3
+    925     607 NOTICE               W     2   3
+   1070     608 NOVEL                W     2   3
+    306     609 NO_FEAR              W     1   3
+    471     610 NUMBER               W     2   3
+   1071     611 NUT                  W     2   3
+    514     612 OAK                  W     2   3
+    926     613 OBSCURE              W     2   3
+   1072     614 ODD                  W     2   3
+     66     615 OFF                  W     1   3
+    590     616 OFFER                W     2   3
+    927     617 OFFSET               W     2   3
+    358     618 OPEN                 W     2   3
+    678     619 OPENING              W     2   3
+    308     620 OPEN_SECRET          W     1   3
+    928     621 OPERATION            W     2   3
+    283     622 OPPOSE               W     1   3
+    929     623 OPPOSITE             W     2   3
+    524     624 ORANGE               W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    39  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    390     625 ORDER                W     2   3
+   1073     626 ORGAN                W     2   3
+    139     627 ORIGINAL.            R     1   3
+     67     628 OUT                  W     1   3
+    309     629 OUTBUY.              R     1   3
+    679     630 OUTSIDE              W     2   3
+    140     631 OUTSTANDING.         R     1   3
+     68     632 OUT_OF               W     1   3
+     69     633 OVERLOOK.            R     1   3
+     70     634 OVERSIGHT.           R     1   3
+    407     635 PACK                 W     2   3
+    930     636 PAD                  W     2   3
+    931     637 PALL                 W     2   3
+   1074     638 PALM                 W     2   3
+    992     639 PANEL.               R     2   3
+   1075     640 PANEL                W     2   3
+    141     641 PANTS                W     1   3
+    252     642 PAPER                W     1   3
+   1076     643 PARK                 W     2   3
+    450     644 PART                 W     2   3
+    253     645 PARTITION.           R     1   3
+    344     646 PASS                 W     2   3
+   1077     647 PASSAGE              W     2   3
+    820     648 PASSING              W     2   3
+    734     649 PATCH                W     2   3
+   1078     650 PATIENT              W     2   3
+   1079     651 PAWN                 W     2   3
+    821     652 PAY                  W     2   3
+    269     653 PEEL                 W     1   3
+     71     654 PEER                 W     1   3
+    539     655 PEN                  W     2   3
+   1080     656 PERIOD               W     2   3
+    266     657 PERIODIC.(incompat   R     1   3
+    142     658 PERUSE               W     1   3
+   1081     659 PET                  W     2   3
+    423     660 PICK                 W     2   3
+    591     661 PICK_UP              W     2   3
+    822     662 PICTURE              W     2   3
+    472     663 PIECE                W     2   3
+    932     664 PILE                 W     2   3
+    625     665 PIN                  W     2   3
+    823     666 PINCH                W     2   3
+    995     667 PISSED               W     2   3
+    270     668 PIT                  W     1   3
+    143     669 PITCH                W     1   3
+    541     670 PITCHER              W     2   3
+    144     671 PITTED               W     1   3
+    364     672 PLACE                W     2   3
+    933     673 PLAIN                W     2   3
+   1082     674 PLANE                W     2   3
+    934     675 PLASTER              W     2   3
+    592     676 PLATE                W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    40  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    336     677 PLAY                 W     2   3
+    542     678 PLOT                 W     2   3
+    680     679 PLUG                 W     2   3
+    935     680 POCKET               W     2   3
+    348     681 POINT                W     2   3
+    537     682 POKER                W     2   3
+    735     683 POLE                 W     2   3
+    223     684 POLICY               W     1   3
+    936     685 POOL                 W     2   3
+    451     686 POP                  W     2   3
+    681     687 PORT                 W     2   3
+    473     688 POSITION             W     2   3
+    736     689 POSITIVE             W     2   3
+    397     690 POST                 W     2   3
+   1083     691 POT                  W     2   3
+    408     692 POUND                W     2   3
+    937     693 POWER                W     2   3
+    224     694 PRACTICED            W     1   3
+    267     695 PRESCRIB.(incompat   R     1   3
+    474     696 PRESENT              W     2   3
+     72     697 PRESENTLY            W     1   3
+    398     698 PRESS                W     2   3
+    145     699 PRICELESS.           R     1   3
+    938     700 PRICK                W     2   3
+    824     701 PRIME                W     2   3
+    939     702 PRINT                W     2   3
+    737     703 PROCESS              W     2   3
+   1084     704 PRODUCE              W     2   3
+    525     705 PRODUCTION           W     2   3
+    682     706 PROJECT              W     2   3
+    825     707 PROOF                W     2   3
+    225     708 PROTEST              W     1   3
+    254     709 PROVE                W     1   3
+    146     710 PUBLIC.              R     1   3
+    331     711 PUBLIC_SCHOOL        W     1   3
+    826     712 PUDDLE               W     2   3
+    558     713 PUFF                 W     2   3
+    391     714 PULL                 W     2   3
+    940     715 PUMP                 W     2   3
+    996     716 PUNCH.               R     2   3
+    989     717 PUPIL.               R     2   3
+    626     718 PUSH                 W     2   3
+    179     719 PUT                  W     1   3
+     73     720 PUT_OUT              W     1   3
+     74     721 PUZZL.(e             R     1   3
+   1085     722 QUACK                W     2   3
+    147     723 QUALIFIED            W     1   3
+     75     724 QUANTUM.             R     1   3
+    322     725 QUANTUM_LEAP         W     1   3
+    475     726 QUARTER              W     2   3
+    827     727 QUEEN                W     2   3
+    941     728 QUESTION             W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    41  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+     76     729 QUIDDIT.(y           R     1   3
+    738     730 QUIET                W     2   3
+     77     731 QUITE (antonymy      W     1   3
+    507     732 RABBIT.              R     2   3
+   1086     733 RACE                 W     2   3
+    476     734 RACK                 W     2   3
+   1087     735 RACKET               W     2   3
+    942     736 RADICAL              W     2   3
+    943     737 RAG                  W     2   3
+    627     738 RAIL                 W     2   3
+    367     739 RAISE                W     2   3
+   1088     740 RAM                  W     2   3
+    559     741 RANGE                W     2   3
+    739     742 RANK                 W     2   3
+   1089     743 RAP                  W     2   3
+   1090     744 RASH                 W     2   3
+    944     745 RAT                  W     2   3
+     78     746 RAVEL                W     1   3
+    683     747 RAW                  W     2   3
+    740     748 REACH                W     2   3
+    828     749 READ                 W     2   3
+    741     750 REAL                 W     2   3
+    945     751 REAR                 W     2   3
+    829     752 RECALL               W     2   3
+    742     753 RECEIVE              W     2   3
+    830     754 RECORD               W     2   3
+    226     755 RECOVER              W     1   3
+    436     756 REDUCE               W     2   3
+    227     757 REEL                 W     1   3
+    946     758 REFERENCE            W     2   3
+   1091     759 REFLECT              W     2   3
+    148     760 REFLEXIVE.           R     1   3
+     79     761 REFRAIN.             R     1   3
+   1092     762 REFRAIN              W     2   3
+   1093     763 REFUSE               W     2   3
+    560     764 REGISTER             W     2   3
+    561     765 REGULAR              W     2   3
+    228     766 RELEAS.(e            R     1   3
+    947     767 RELIEF               W     2   3
+    948     768 RELIEVE              W     2   3
+   1094     769 RELISH               W     2   3
+    684     770 RENDER               W     2   3
+     80     771 RENT.(converse       R     1   3
+    149     772 REPLACE              W     1   3
+    743     773 REPORT               W     2   3
+    628     774 REPRESENT            W     2   3
+    229     775 REPRESS              W     1   3
+    230     776 REPROVE              W     1   3
+    282     777 RESENT.              R     1   3
+    150     778 RESERVATION.         R     1   3
+   1095     779 RESERVATION          W     2   3
+    949     780 RESERVE              W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    42  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    274     781 RESIDE               W     1   3
+    151     782 RESIGN               W     1   3
+    950     783 RESISTANCE           W     2   3
+    951     784 RESOLUTION           W     2   3
+   1096     785 RESORT               W     2   3
+    477     786 REST                 W     2   3
+    176     787 RESTIVE              W     1   3
+    277     788 RESTORE.             R     1   3
+    952     789 RETIRE               W     2   3
+    953     790 RETREAT              W     2   3
+    371     791 RETURN               W     2   3
+    685     792 REVERSE              W     2   3
+    629     793 REVIEW               W     2   3
+    152     794 RHOTACISM            W     1   3
+    744     795 RICH                 W     2   3
+    593     796 RIDE                 W     2   3
+    954     797 RIDGE                W     2   3
+    955     798 RIG                  W     2   3
+    354     799 RIGHT                W     2   3
+    630     800 RING                 W     2   3
+    278     801 RIOT.                R     1   3
+    375     802 RISE                 W     2   3
+    279     803 RIVAL.               R     1   3
+     81     804 ROCK                 W     1   3
+    231     805 ROCKY                W     1   3
+    362     806 ROLL                 W     2   3
+    180     807 ROOT                 W     1   3
+    478     808 ROUGH                W     2   3
+    380     809 ROUND                W     2   3
+   1097     810 ROW                  W     2   3
+    831     811 RUFFLE               W     2   3
+    832     812 RUIN                 W     2   3
+    452     813 RULE                 W     2   3
+   1098     814 RULER                W     2   3
+    335     815 RUN                  W     2   3
+    956     816 RUNNING              W     2   3
+    594     817 RUSH                 W     2   3
+    745     818 SACK                 W     2   3
+   1099     819 SAGE                 W     2   3
+     82     820 SANCTION.            R     1   3
+     83     821 SANGUINE.            R     1   3
+   1100     822 SAP                  W     2   3
+    833     823 SAVE                 W     2   3
+   1101     824 SAW                  W     2   3
+    834     825 SAY                  W     2   3
+    479     826 SCALE                W     2   3
+     84     827 SCAN                 W     1   3
+    480     828 SCORE                W     2   3
+    562     829 SCRATCH              W     2   3
+     85     830 SCREEN.              R     1   3
+    280     831 SCREWED              W     1   3
+    631     832 SEAL                 W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    43  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    595     833 SEAT                 W     2   3
+    632     834 SECOND               W     2   3
+    686     835 SECRET               W     2   3
+    232     836 SECRETE.             R     1   3
+    153     837 SECRETED             W     1   3
+    633     838 SECTION              W     2   3
+    957     839 SECURE               W     2   3
+    381     840 SEE                  W     2   3
+     86     841 SEED                 W     1   3
+    233     842 SEEDED               W     1   3
+   1102     843 SENSE                W     2   3
+   1103     844 SENTENCE             W     2   3
+    453     845 SEPARATE             W     2   3
+    596     846 SERVE                W     2   3
+    481     847 SERVICE              W     2   3
+    181     848 SET                  W     1   3
+    234     849 SETTLE               W     1   3
+    634     850 SET_UP               W     2   3
+    154     851 SEVERAL              W     1   3
+    687     852 SHADE                W     2   3
+    835     853 SHADOW               W     2   3
+    688     854 SHAFT                W     2   3
+    635     855 SHAKE                W     2   3
+    263     856 SHANK                W     1   3
+    958     857 SHAPE                W     2   3
+   1104     858 SHARE                W     2   3
+    636     859 SHARP                W     2   3
+    155     860 SHED                 W     1   3
+    512     861 SHEET                W     2   3
+    271     862 SHELL                W     1   3
+    156     863 SHELLED              W     1   3
+    399     864 SHIFT                W     2   3
+    959     865 SHINE                W     2   3
+   1105     866 SHIP                 W     2   3
+    563     867 SHOCK                W     2   3
+    409     868 SHOOT                W     2   3
+     87     869 SHOP.                R     1   3
+    400     870 SHORT                W     2   3
+    482     871 SHOT                 W     2   3
+    597     872 SHOW                 W     2   3
+    157     873 SHOW-STOPPER         W     1   3
+    515     874 SHOWER               W     2   3
+   1106     875 SHUTTLE              W     2   3
+    158     876 SICK.                R     1   3
+    689     877 SIDE                 W     2   3
+    437     878 SIGN                 W     2   3
+    836     879 SILVER               W     2   3
+    746     880 SINK                 W     2   3
+    159     881 SINOPLE              W     1   3
+    235     882 SIREN.               R     1   3
+     88     883 SKIN (reversive      W     1   3
+     89     884 SKINNED (reversive   W     1   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    44  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    564     885 SLACK                W     2   3
+    160     886 SLAVE                W     1   3
+    960     887 SLICK                W     2   3
+   1107     888 SLIDE                W     2   3
+    378     889 SLIP                 W     2   3
+    961     890 SLOW                 W     2   3
+    837     891 SMACK                W     2   3
+    747     892 SMALL                W     2   3
+   1108     893 SMART                W     2   3
+    598     894 SMASH                W     2   3
+    838     895 SMOOTH               W     2   3
+    236     896 SNAP                 W     1   3
+    962     897 SO                   W     2   3
+    963     898 SOAK                 W     2   3
+   1109     899 SOCK                 W     2   3
+    438     900 SOFT                 W     2   3
+   1110     901 SOLE                 W     2   3
+    483     902 SOLID                W     2   3
+   1111     903 SORE                 W     2   3
+    382     904 SOUND                W     2   3
+    964     905 SOUR                 W     2   3
+    965     906 SOURCE               W     2   3
+    310     907 SOUTHERLY            W     1   3
+   1112     908 SOW                  W     2   3
+   1113     909 SPADE                W     2   3
+    748     910 SPARE                W     2   3
+    311     911 SPEAR_CARRIER.       R     1   3
+   1114     912 SPEED                W     2   3
+   1115     913 SPELL                W     2   3
+    565     914 SPIKE                W     2   3
+    749     915 SPIN                 W     2   3
+    750     916 SPLASH               W     2   3
+     90     917 SPLICE               W     1   3
+    484     918 SPLIT                W     2   3
+    966     919 SPOIL                W     2   3
+    439     920 SPOT                 W     2   3
+    401     921 SPREAD               W     2   3
+    967     922 SPRING               W     2   3
+    312     923 SPRING_FEVER         W     1   3
+    383     924 SQUARE               W     2   3
+   1116     925 SQUASH               W     2   3
+    566     926 SQUEEZE              W     2   3
+   1117     927 STABLE               W     2   3
+   1118     928 STAFF                W     2   3
+    237     929 STAIN                W     1   3
+   1119     930 STAKE                W     2   3
+     91     931 STAKEHOLDER.         R     1   3
+   1120     932 STALK                W     2   3
+    690     933 STALL                W     2   3
+    485     934 STAMP                W     2   3
+    392     935 STAND                W     2   3
+    968     936 STANDARD             W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    45  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+   1121     937 STAPLE               W     2   3
+    839     938 STAR                 W     2   3
+    410     939 START                W     2   3
+    969     940 STATE                W     2   3
+    313     941 STATION_TO_STATION   W     1   3
+    314     942 STAVE                W     1   3
+    161     943 STAY                 W     1   3
+   1122     944 STEEP                W     2   3
+   1123     945 STEER                W     2   3
+    260     946 STEM                 W     1   3
+    424     947 STEP                 W     2   3
+   1124     948 STERN                W     2   3
+    384     949 STICK                W     2   3
+    970     950 STIFF                W     2   3
+    486     951 STILL                W     2   3
+    238     952 STIPULAT.(e          R     1   3
+    971     953 STIR                 W     2   3
+   1125     954 STITCH               W     2   3
+    376     955 STOCK                W     2   3
+    268     956 STONE                W     1   3
+    411     957 STOP                 W     2   3
+   1126     958 STORE                W     2   3
+    425     959 STRAIGHT             W     2   3
+    440     960 STRAIN               W     2   3
+   1127     961 STRESS               W     2   3
+    441     962 STRETCH              W     2   3
+     92     963 STRIKE.              R     1   3
+   1128     964 STRIKE               W     2   3
+    567     965 STRING               W     2   3
+    454     966 STRIP                W     2   3
+    599     967 STROKE               W     2   3
+   1129     968 STUD                 W     2   3
+    600     969 STUDY                W     2   3
+    691     970 STUFF                W     2   3
+    840     971 STYLE                W     2   3
+    692     972 SUBJECT              W     2   3
+    972     973 SUFFER               W     2   3
+   1130     974 SUIT                 W     2   3
+    751     975 SUPERIOR             W     2   3
+    493     976 SUPPORT              W     2   3
+    162     977 SUSPICIOUS.          R     1   3
+    973     978 SWALLOW              W     2   3
+    637     979 SWEEP                W     2   3
+    601     980 SWEET                W     2   3
+    974     981 SWELL                W     2   3
+    494     982 SWING                W     2   3
+    693     983 SWITCH               W     2   3
+     93     984 TABLE                W     1   3
+    841     985 TACK                 W     2   3
+    975     986 TAIL                 W     2   3
+    315     987 TAKE                 W     1   3
+    568     988 TAKE_IN              W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    46  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    694     989 TAKE_OUT             W     2   3
+    752     990 TAKE_UP              W     2   3
+    976     991 TALK                 W     2   3
+    442     992 TAP                  W     2   3
+    163     993 TARGETED             W     1   3
+   1131     994 TART                 W     2   3
+    753     995 TASTE                W     2   3
+   1132     996 TAX                  W     2   3
+   1133     997 TEAR                 W     2   3
+    842     998 TEASE                W     2   3
+    511     999 TELEVISION           W     2   3
+     94    1000 TEMPER               W     1   3
+   1134    1001 TEMPLE               W     2   3
+    487    1002 TENDER               W     2   3
+   1135    1003 TERM                 W     2   3
+   1136    1004 TERMINAL             W     2   3
+    316    1005 TERRIBLE             W     1   3
+    164    1006 TERRIFIC.            R     1   3
+    754    1007 TEST                 W     2   3
+    755    1008 THICK                W     2   3
+    756    1009 THIN                 W     2   3
+    843    1010 THING                W     2   3
+    695    1011 THINK                W     2   3
+    443    1012 THROW                W     2   3
+     95    1013 THROW_OUT            W     1   3
+    757    1014 THRUST               W     2   3
+    543    1015 TICK                 W     2   3
+    488    1016 TIE                  W     2   3
+    602    1017 TIGHT                W     2   3
+    239    1018 TILT                 W     1   3
+    638    1019 TIME                 W     2   3
+    509    1020 TIN                  W     2   3
+    696    1021 TIP                  W     2   3
+   1137    1022 TIRE                 W     2   3
+    844    1023 TITLE                W     2   3
+    544    1024 TOAST                W     2   3
+   1138    1025 TOLL                 W     2   3
+    639    1026 TONE                 W     2   3
+   1139    1027 TOOL                 W     2   3
+    495    1028 TOP                  W     2   3
+    257    1029 TOSS_OUT             W     1   3
+    377    1030 TOUCH                W     2   3
+    845    1031 TOUGH                W     2   3
+    697    1032 TRACE                W     2   3
+    603    1033 TRACK                W     2   3
+    846    1034 TRADE                W     2   3
+    569    1035 TRAIN                W     2   3
+    640    1036 TRANSFER             W     2   3
+     96    1037 TRANSPARENT.         R     1   3
+    977    1038 TRANSPORT            W     2   3
+    847    1039 TRAP                 W     2   3
+   1140    1040 TREAT                W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    47  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+   1141    1041 TRIAL                W     2   3
+     97    1042 TRIM                 W     1   3
+     98    1043 TRIP                 W     1   3
+    165    1044 TRIPPING             W     1   3
+    978    1045 TROLL                W     2   3
+    979    1046 TROUBLE              W     2   3
+    641    1047 TRUE                 W     2   3
+    531    1048 TRUNK                W     2   3
+    848    1049 TRUST                W     2   3
+   1142    1050 TRY                  W     2   3
+    166    1051 TRYING               W     1   3
+    262    1052 TUBE                 W     1   3
+    758    1053 TUMBLE               W     2   3
+    994    1054 TURKEY               W     2   3
+    351    1055 TURN                 W     2   3
+    849    1056 TURN_OUT             W     2   3
+    402    1057 TWIST                W     2   3
+   1143    1058 TYPE                 W     2   3
+     99    1059 UNBENDING            W     1   3
+    759    1060 UNION                W     2   3
+    177    1061 UNLOCKABLE           W     1   3
+    240    1062 UNQUALIFIED.         R     1   3
+    167    1063 UNSHELLED            W     1   3
+    317    1064 UNTHAW.              R     1   3
+    698    1065 UP                   W     2   3
+    980    1066 UPGRADE              W     2   3
+    570    1067 UPSET                W     2   3
+    760    1068 USE                  W     2   3
+   1144    1069 VAIN                 W     2   3
+    981    1070 VALUE                W     2   3
+    982    1071 VARIATION            W     2   3
+    100    1072 VARIET.(y            R     1   3
+    168    1073 VAULT                W     1   3
+    241    1074 VEGETATIVE.          R     1   3
+    242    1075 VERNACULAR           W     1   3
+   1145    1076 VESSEL               W     2   3
+    761    1077 VIEW                 W     2   3
+    762    1078 VISIT                W     2   3
+    243    1079 VITAL                W     1   3
+    763    1080 VOICE                W     2   3
+    571    1081 WALK                 W     2   3
+    850    1082 WARM                 W     2   3
+    426    1083 WASH                 W     2   3
+    604    1084 WASTE                W     2   3
+    764    1085 WATCH                W     2   3
+    244    1086 WATER                W     1   3
+    699    1087 WAVE                 W     2   3
+    765    1088 WAY                  W     2   3
+    851    1089 WEAK                 W     2   3
+    101    1090 WEAR                 W     1   3
+    102    1091 WEATHER.             R     1   3
+    412    1093 WELL                 W     2   3
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    48  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+CATEGORY   3  Total 01 + 02(contronyms + pol
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R  CATEGORIES ASSIGNED TO                 ________________________________________________________________________________
+
+    258    1094 WENT_OFF             W     1   3
+    318    1095 WESTERLY             W     1   3
+    983    1096 WHET                 W     2   3
+    984    1097 WHIP                 W     2   3
+    985    1098 WHISTLE              W     2   3
+    385    1099 WHITE                W     2   3
+    169    1100 WICKED               W     1   3
+    245    1101 WIDDERSHINS          W     1   3
+    986    1102 WIDE                 W     2   3
+    572    1103 WILD                 W     2   3
+    987    1104 WILSON               W     2   3
+    642    1105 WIND                 W     2   3
+    104    1106 WIND_UP              W     1   3
+    852    1107 WING                 W     2   3
+    105    1108 WITH                 W     1   3
+    853    1109 WITHDRAW             W     2   3
+    504    1110 WOOD                 W     2   3
+    988    1111 WORD                 W     2   3
+    361    1112 WORK                 W     2   3
+    246    1113 WRAITH               W     1   3
+    766    1114 WRONG                W     2   3
+    247    1115 X                    W     1   3
+   1146    1116 YARD                 W     2   3
+    319    1117 YEAH_RIGHT           W     1   3
+    573    1118 YIELD                W     2   3
+    700    1119 YOUNG                W     2   3
+
+
+
+STATISTICS FOR CATEGORY..       3
+WORDS....................    1006
+ROOTS....................     112
+TOTAL....................    1118
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    49  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+** POLYSEM     (Prof. Robert Hogenraad)                                       **
+
+WORDS AND ROOTS TO EXCLUDE
+
+OLD SEQ NEW SEQ WORD/ROOT           W/R_______________________________________
+
+    103    1092 WEATHERM.(an         R  
+
+
+
+STATISTICS FOR WORDS AND ROOTS TO EXCLUDE
+WORDS....................       0
+ROOTS....................       1
+TOTAL....................       1
+**       PROTAN SYSTEM          UCL/PSP AT LOUVAIN-LA-NEUVE      PAGE:    50  **
+**       PROGRAM: CDLISTC     DATE: Jul03 17    TIME: 14:59:18                **
+
+
+*CYEX001I  processing terminated
+  -  normal end of job
