@@ -2,13 +2,11 @@
 Marty Steer, Digital Humantities Research Hub (DHRH)
 *School of Advanced Study, University of London*
 
-*NB: I recieved a copy of the .lis files from a colleague in April 2018, and transformed them into CSV and JSONL versions for use in my own research projects.*
+Robert Hogenraad, Emeritus Professor (August 2017). Smoke and mirrors: Tracing ambiguity in texts. (Accessed 6 July 2021 from https://www.researchgate.net/publication/319136617_Smoke_and_mirrors_Tracing_ambiguity_in_texts)
 
-The dictionary descriptions below are from the original .lis files. Some hyperlinks have been fixed.
+*NB: I recieved a copy of the .lis files from a colleague in April 2018, and transformed them into CSV and JSONL versions for use in my own research projects.*The dictionary descriptions below are from the original PROTAN .lis files. Some hyperlinks have been fixed.
 
 **Markers of ambiguity (polydlc.lis)**
-
-*Robert Hogenraad, Emeritus Professor*
 
 Looking for markers of ambiguity, we selected from Empson's (1930) "Seven types of ambiguity" those types we could digitize into computer-readable format. Polysemy and contronyms were among those. We then looked at the following web sites and extracted the items marked as relevant to those two types of ambiguity:
 
